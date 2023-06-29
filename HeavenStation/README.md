@@ -8,6 +8,7 @@ Despite it not being the best looking or functioning map, it's still my first ma
 
 <details>
 <summary> Image from the PR </summary>
+  
 [1](https://cdn.discordapp.com/attachments/914685829027340330/1123739720439050271/110881397-4cd6d480-82ae-11eb-8935-cbba2e3efa01.png)
 [2](https://cdn.discordapp.com/attachments/914685829027340330/1123739720732659732/110881416-552f0f80-82ae-11eb-93d0-1dcf4879b41d.png)
 [3](https://cdn.discordapp.com/attachments/914685829027340330/1123739721026252941/110881437-5ceeb400-82ae-11eb-902d-19d625dc145b.png)
@@ -17,4 +18,5 @@ Despite it not being the best looking or functioning map, it's still my first ma
 [7](https://cdn.discordapp.com/attachments/914685829027340330/1123739779696177243/112189562-82e35500-8bda-11eb-9748-8468faa00551.png)
 [8](https://cdn.discordapp.com/attachments/914685829027340330/1123739780069462066/112189720-aa3a2200-8bda-11eb-8767-05259b9a5162.png)
 [9](https://cdn.discordapp.com/attachments/914685829027340330/1123739780434383059/112192535-6ac10500-8bdd-11eb-8a6a-b8a02157996e.png)
+
 </details>
