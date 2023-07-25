@@ -1,0 +1,1862 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ab" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"aA" = (
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"bc" = (
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"bs" = (
+/obj/structure/table/reinforced,
+/obj/item/paper_bin,
+/obj/item/pen,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"bA" = (
+/obj/structure/flora/bush/lavendergrass,
+/obj/structure/flora/bush/flowers_br/style_random,
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"bJ" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 10
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"bK" = (
+/obj/structure/window/reinforced/spawner,
+/obj/structure/flora/bush/lavendergrass,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"bZ" = (
+/turf/closed/indestructible/riveted,
+/area/centcom/central_command_areas/supplypod)
+"cq" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/obj/effect/turf_decal/siding/dark/corner,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"cN" = (
+/turf/open/space/basic,
+/area/space)
+"cU" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"dv" = (
+/obj/structure/toilet{
+	dir = 8
+	},
+/obj/machinery/door/window/brigdoor/left/directional/west{
+	name = "Stall"
+	},
+/obj/structure/window/reinforced/tinted{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"dC" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"dG" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"dL" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"dO" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/poddoor/shutters/window{
+	name = "Snack Counter Shutters";
+	id = "cc_snack"
+	},
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"eA" = (
+/obj/structure/flora/bush/lavendergrass,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/obj/machinery/light/floor,
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"eM" = (
+/obj/item/kirbyplants/random,
+/obj/structure/extinguisher_cabinet/directional/north,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"eN" = (
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"eR" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"fu" = (
+/obj/machinery/light/directional/west,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"gX" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen,
+/area/centcom/central_command_areas/evacuation)
+"hv" = (
+/obj/structure/chair/stool/bar/directional/west,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"hz" = (
+/obj/structure/sign/departments/restroom/directional/south,
+/obj/effect/turf_decal/siding/dark{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"hB" = (
+/obj/structure/railing/corner,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/caution,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"hO" = (
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"ir" = (
+/obj/machinery/status_display/evac/directional/west,
+/obj/effect/turf_decal/siding/dark{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"ix" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"jJ" = (
+/obj/machinery/vending/coffee,
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"jZ" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/rollingpin,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"kA" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen,
+/area/centcom/central_command_areas/evacuation)
+"kK" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"kU" = (
+/obj/structure/sign/nanotrasen,
+/turf/closed/indestructible/riveted,
+/area/centcom/central_command_areas/courtroom)
+"lU" = (
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/obj/machinery/light/directional/west,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"mf" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"mX" = (
+/obj/effect/turf_decal/skyrat_decals/misc/handicapped,
+/obj/effect/turf_decal/siding/dark{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"ne" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 6
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"nm" = (
+/obj/machinery/status_display/evac/directional/east,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"nw" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/turf/open/floor/iron/kitchen,
+/area/centcom/central_command_areas/evacuation)
+"nQ" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"ow" = (
+/obj/structure/sink/kitchen{
+	dir = 8;
+	pixel_x = 11;
+	pixel_y = 4
+	},
+/obj/structure/sign/poster/official/cleanliness{
+	pixel_x = 32
+	},
+/turf/open/floor/iron/kitchen,
+/area/centcom/central_command_areas/evacuation)
+"oO" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"oV" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"oY" = (
+/obj/structure/chair/sofa/bench/corner,
+/obj/item/kirbyplants/random{
+	pixel_x = 3;
+	pixel_y = 13
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"oZ" = (
+/obj/structure/railing/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"px" = (
+/obj/machinery/status_display/evac/directional/east,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"qe" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"qq" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 10
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/machinery/status_display/evac/directional/north,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"qB" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"rA" = (
+/obj/effect/turf_decal/skyrat_decals/misc/handicapped,
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"rO" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench/right,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"rR" = (
+/obj/structure/railing/corner,
+/obj/effect/turf_decal/arrows,
+/obj/structure/sign/poster/official/help_others{
+	pixel_x = -32
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"rX" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"sp" = (
+/obj/machinery/button/door/directional/north{
+	name = "Counter Shutter Control";
+	id = "cc_snack"
+	},
+/obj/structure/rack,
+/obj/effect/spawner/costume/waiter,
+/obj/effect/spawner/costume/waiter,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"ss" = (
+/obj/machinery/light/floor,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"sK" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/centcom/central_command_areas/evacuation)
+"sU" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/window/brigdoor/left/directional/south{
+	name = "CentCom Customs";
+	req_access = list("cent_captain")
+	},
+/obj/machinery/door/window/left/directional/north{
+	name = "CentCom Desk"
+	},
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"ta" = (
+/obj/machinery/door/window/brigdoor/left/directional/north{
+	name = "Stall"
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"th" = (
+/obj/machinery/door/airlock/centcom{
+	name = "CentCom Security Checkpoint"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/admin/general,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/turf/closed/indestructible/riveted,
+/area/centcom/central_command_areas/evacuation)
+"tq" = (
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"tL" = (
+/obj/structure/urinal/directional/west,
+/obj/structure/window/reinforced/tinted{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"tU" = (
+/obj/effect/turf_decal/siding/dark,
+/obj/effect/spawner/random/entertainment/arcade,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"ud" = (
+/obj/item/kirbyplants/random,
+/obj/structure/extinguisher_cabinet/directional/south,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"vq" = (
+/obj/machinery/light/directional/south,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/machinery/status_display/evac/directional/south,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"vK" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/poddoor/shutters/window{
+	name = "Snack Counter Shutters";
+	id = "cc_snack"
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"wa" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen,
+/area/centcom/central_command_areas/evacuation)
+"ws" = (
+/obj/structure/railing/corner,
+/obj/structure/railing/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"wy" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"xf" = (
+/obj/structure/table/reinforced,
+/obj/effect/spawner/random/food_or_drink/donkpockets{
+	pixel_x = -4
+	},
+/obj/effect/spawner/random/food_or_drink/donkpockets{
+	pixel_x = 4;
+	pixel_y = 4
+	},
+/obj/machinery/status_display/evac/directional/north,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"xz" = (
+/obj/structure/statue/sandstone/venus{
+	dir = 1;
+	name = "Law"
+	},
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"xO" = (
+/obj/structure/sink{
+	dir = 8;
+	pixel_x = 11
+	},
+/obj/structure/mirror/directional/east,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"xZ" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/railing/corner,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"yA" = (
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"yR" = (
+/turf/open/floor/iron/kitchen,
+/area/centcom/central_command_areas/evacuation)
+"zc" = (
+/obj/machinery/door/poddoor/shuttledock,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"zm" = (
+/obj/machinery/door/airlock/centcom{
+	name = "CentCom Security Checkpoint"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/admin/general,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"zp" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"zs" = (
+/obj/structure/chair/sofa/bench{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"zt" = (
+/obj/machinery/door/airlock/centcom{
+	name = "CentCom Security"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/airlock/access/all/admin/general,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"zw" = (
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/obj/effect/turf_decal/siding/dark{
+	dir = 6
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"zz" = (
+/obj/structure/bookcase/random,
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"Aa" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"AE" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/obj/machinery/griddle,
+/turf/open/floor/iron/kitchen,
+/area/centcom/central_command_areas/evacuation)
+"AN" = (
+/obj/machinery/door/airlock/bathroom{
+	name = "Female Bathroom"
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"AT" = (
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/arrows{
+	dir = 1
+	},
+/obj/structure/sign/poster/official/here_for_your_safety{
+	pixel_x = -32
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"BQ" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench/left,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"CI" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"CM" = (
+/obj/structure/chair/sofa/bench,
+/obj/item/toy/plush/snakeplushie,
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"Dr" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/obj/machinery/light/directional/east,
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"DO" = (
+/obj/structure/chair/stool/bar/directional/west,
+/obj/machinery/light/floor,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Eh" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/light/floor,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Gk" = (
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Gm" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/item/kirbyplants/random,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Gv" = (
+/turf/closed/indestructible/riveted,
+/area/centcom/central_command_areas/courtroom)
+"GA" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"GO" = (
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/dark_blue,
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/caution{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"GR" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench/right{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Hq" = (
+/obj/structure/chair/sofa/bench,
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"HJ" = (
+/obj/structure/table/reinforced,
+/obj/machinery/light/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"HM" = (
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"HY" = (
+/obj/structure/statue/sandstone/venus{
+	name = "Order"
+	},
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"If" = (
+/obj/structure/sign/departments/restroom/directional/south,
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Il" = (
+/obj/machinery/light/directional/east,
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Iq" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"ID" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"II" = (
+/obj/machinery/door/airlock/bathroom{
+	name = "Male Bathroom"
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"IX" = (
+/obj/structure/sink{
+	dir = 4;
+	pixel_x = -12
+	},
+/obj/structure/mirror/directional/west,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Jk" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Ju" = (
+/obj/machinery/status_display/evac/directional/south,
+/obj/structure/rack,
+/obj/item/kitchen/fork{
+	pixel_x = 6
+	},
+/obj/item/kitchen/fork{
+	pixel_x = 6
+	},
+/obj/item/kitchen/fork{
+	pixel_x = 6
+	},
+/obj/item/kitchen/fork{
+	pixel_x = 6
+	},
+/obj/item/kitchen/spoon{
+	pixel_x = -6
+	},
+/obj/item/kitchen/spoon{
+	pixel_x = -6
+	},
+/obj/item/kitchen/spoon{
+	pixel_x = -6
+	},
+/obj/item/kitchen/spoon{
+	pixel_x = -6
+	},
+/turf/open/floor/iron/kitchen,
+/area/centcom/central_command_areas/evacuation)
+"JL" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Kl" = (
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Ku" = (
+/obj/structure/chair/stool/bar/directional/west,
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"KG" = (
+/obj/structure/railing/corner{
+	dir = 8
+	},
+/obj/structure/railing/corner,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"KH" = (
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"KP" = (
+/obj/structure/table/reinforced,
+/obj/item/folder/yellow{
+	pixel_x = -5
+	},
+/obj/item/folder/blue,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"KV" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 10
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Lp" = (
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Lr" = (
+/obj/effect/turf_decal/arrows{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Ly" = (
+/obj/structure/fluff/arc,
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"LE" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"LH" = (
+/obj/structure/chair/sofa/bench,
+/obj/machinery/status_display/evac/directional/north,
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"LM" = (
+/obj/machinery/newscaster/directional/west,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Mc" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Mz" = (
+/obj/machinery/light/directional/north,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/machinery/status_display/evac/directional/north,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"MS" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"MZ" = (
+/obj/structure/window/reinforced/spawner,
+/obj/structure/flora/bush/lavendergrass,
+/obj/structure/flora/bush/flowers_br/style_random,
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"NC" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"NP" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Oc" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench/right{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"OB" = (
+/obj/machinery/status_display/evac/directional/west,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"OE" = (
+/obj/structure/closet/crate/bin,
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"OG" = (
+/obj/structure/chair/office,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Pg" = (
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/obj/machinery/light/directional/west,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"PC" = (
+/obj/structure/flora/bush/lavendergrass,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"Qm" = (
+/obj/machinery/light/floor,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Qt" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/centcom{
+	name = "CentCom"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"QW" = (
+/obj/structure/chair/sofa/bench/left,
+/obj/machinery/light/directional/north,
+/obj/item/toy/plush/lizard_plushie{
+	name = "Tells-The-Stories"
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"QZ" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/window/brigdoor/left/directional/north{
+	name = "CentCom Customs";
+	req_access = list("cent_captain")
+	},
+/obj/machinery/door/window/left/directional/south{
+	name = "CentCom Desk"
+	},
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"RN" = (
+/obj/docking_port/stationary{
+	dir = 4;
+	dwidth = 25;
+	height = 50;
+	id = "emergency_away";
+	json_key = "emergency";
+	name = "CentCom Emergency Shuttle Dock";
+	width = 50
+	},
+/turf/open/space,
+/area/space)
+"Sa" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Sg" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Rest Area"
+	},
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Sw" = (
+/obj/structure/flora/bush/lavendergrass,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"SA" = (
+/obj/machinery/light/directional/east,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"SB" = (
+/turf/closed/indestructible/riveted,
+/area/centcom/central_command_areas/evacuation)
+"SG" = (
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Tm" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Rest Area"
+	},
+/obj/effect/turf_decal/siding/dark_blue/corner,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Ts" = (
+/obj/structure/chair/sofa/bench{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"Tv" = (
+/obj/structure/chair/sofa/bench/right,
+/obj/machinery/light/directional/north,
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"TP" = (
+/obj/structure/window/reinforced/tinted{
+	dir = 1
+	},
+/obj/structure/toilet{
+	dir = 8
+	},
+/obj/machinery/door/window/brigdoor/left/directional/west{
+	name = "Stall"
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Vi" = (
+/obj/structure/window/reinforced/spawner,
+/obj/structure/table/reinforced,
+/obj/item/folder/yellow{
+	pixel_x = -5
+	},
+/obj/item/folder/blue,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Vo" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Vs" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"Vw" = (
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/obj/effect/turf_decal/siding/dark/corner,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"VO" = (
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Wl" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/stool/bar/directional/south,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Wm" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Ws" = (
+/obj/structure/window/reinforced/spawner,
+/obj/structure/table/reinforced,
+/obj/item/paper_bin,
+/obj/item/pen,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"WD" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/closet/crate/bin,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"WP" = (
+/obj/machinery/status_display/evac/directional/west,
+/obj/effect/turf_decal/siding/dark{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"WU" = (
+/obj/structure/chair/stool/bar/directional/north,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Xh" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Xp" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/railing/corner,
+/obj/machinery/light/floor,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"XE" = (
+/obj/structure/window/reinforced/spawner,
+/obj/structure/flora/bush/lavendergrass,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/turf/open/floor/grass,
+/area/centcom/central_command_areas/evacuation)
+"Yo" = (
+/obj/structure/sign/departments/restroom/directional/south,
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Yp" = (
+/obj/machinery/light/directional/south,
+/obj/structure/table/reinforced,
+/obj/item/plate/large,
+/obj/item/plate/large{
+	pixel_y = 2
+	},
+/obj/item/plate/large{
+	pixel_y = 4
+	},
+/obj/item/plate/large{
+	pixel_y = 6
+	},
+/turf/open/floor/iron/kitchen,
+/area/centcom/central_command_areas/evacuation)
+"YC" = (
+/obj/structure/chair/sofa/bench/corner{
+	dir = 4
+	},
+/obj/item/kirbyplants/random{
+	pixel_y = 13;
+	pixel_x = -3
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/central_command_areas/evacuation)
+"YM" = (
+/obj/machinery/vending/cigarette,
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/obj/machinery/light/directional/south,
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"YR" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/chair/sofa/bench/left{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"YY" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+"Zh" = (
+/obj/structure/toilet{
+	dir = 4
+	},
+/obj/structure/window/reinforced/tinted{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/central_command_areas/evacuation)
+"Zv" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/structure/sign/directions/engineering{
+	desc = "A sign that shows there are doors here. There are doors everywhere!";
+	icon_state = "doors";
+	name = "WARNING: BLAST DOORS"
+	},
+/turf/open/floor/plating,
+/area/centcom/central_command_areas/evacuation)
+"ZN" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/centcom/central_command_areas/evacuation)
+
+(1,1,1) = {"
+Gv
+SB
+SB
+SB
+zt
+SB
+SB
+SB
+SB
+Qt
+Zv
+Qt
+SB
+SB
+SB
+SB
+zt
+SB
+SB
+SB
+SB
+zt
+SB
+"}
+(2,1,1) = {"
+Gv
+YC
+mf
+oV
+yA
+Vs
+lU
+Vw
+WP
+qB
+Qm
+qB
+ir
+eN
+Pg
+Lp
+VO
+SB
+eR
+HJ
+jZ
+kA
+bZ
+"}
+(3,1,1) = {"
+Gv
+Hq
+yA
+yA
+yA
+Ts
+cq
+ZN
+qB
+qB
+Gk
+qB
+qB
+wy
+LE
+VO
+VO
+SB
+xf
+Gk
+Gk
+gX
+bZ
+"}
+(4,1,1) = {"
+Gv
+LH
+yA
+yA
+yA
+Iq
+zw
+qB
+Gk
+Gk
+Gk
+Gk
+Gk
+qB
+wy
+LE
+VO
+SB
+sp
+Gk
+Gk
+nw
+bZ
+"}
+(5,1,1) = {"
+Gv
+QW
+yA
+yA
+yA
+ne
+qe
+Gk
+Gk
+qB
+Qm
+qB
+Gk
+Gk
+Eh
+wy
+rA
+vK
+wa
+wa
+wa
+AE
+bZ
+"}
+(6,1,1) = {"
+Gv
+zz
+yA
+yA
+ne
+NP
+Gk
+Gk
+GR
+dL
+tq
+dL
+dG
+Gk
+Gk
+qB
+mX
+dO
+yR
+yR
+yR
+Yp
+bZ
+"}
+(7,1,1) = {"
+Gv
+zz
+yA
+ne
+NP
+Gk
+Gk
+YR
+Sw
+bA
+Sw
+Sw
+bK
+rO
+Gk
+Gk
+Wl
+vK
+yR
+yR
+ow
+Ju
+bZ
+"}
+(8,1,1) = {"
+Gv
+zz
+yA
+NC
+qB
+Gk
+qB
+CI
+bA
+bA
+bA
+xz
+bK
+cU
+qB
+Gk
+Wl
+vK
+dO
+vK
+SB
+SB
+bZ
+"}
+(9,1,1) = {"
+Gv
+zz
+yA
+SG
+Gk
+Gk
+Qm
+zs
+PC
+Ly
+eA
+PC
+XE
+GA
+Qm
+Gk
+Gk
+DO
+Ku
+hv
+VO
+jJ
+bZ
+"}
+(10,1,1) = {"
+Gv
+Tv
+yA
+NC
+qB
+Gk
+qB
+CI
+PC
+bA
+Sw
+HY
+MZ
+cU
+qB
+Gk
+qB
+px
+zp
+VO
+VO
+YM
+bZ
+"}
+(11,1,1) = {"
+Gv
+LH
+yA
+bJ
+oO
+Gk
+Gk
+Oc
+Sw
+Sw
+Sw
+bA
+MZ
+BQ
+Gk
+Gk
+WD
+SB
+SB
+SB
+SB
+SB
+bZ
+"}
+(12,1,1) = {"
+kU
+CM
+yA
+yA
+bJ
+oO
+Gk
+Gk
+Mc
+JL
+ID
+JL
+ab
+Gk
+Gk
+qB
+hz
+SB
+IX
+tL
+tL
+Zh
+bZ
+"}
+(13,1,1) = {"
+Gv
+oY
+aA
+Dr
+OE
+bJ
+ix
+Gk
+Gk
+qB
+Qm
+qB
+Gk
+Gk
+Eh
+Xh
+Il
+II
+VO
+SA
+nm
+ta
+bZ
+"}
+(14,1,1) = {"
+Gv
+SB
+SB
+SB
+SB
+SB
+qq
+qB
+Gk
+Gk
+Gk
+Gk
+Gk
+qB
+Xh
+If
+SB
+SB
+SB
+SB
+SB
+SB
+bZ
+"}
+(15,1,1) = {"
+Gv
+tU
+WU
+fu
+VO
+VO
+rX
+KV
+qB
+qB
+Gk
+qB
+qB
+Xh
+YY
+VO
+fu
+AN
+OB
+fu
+VO
+VO
+bZ
+"}
+(16,1,1) = {"
+Gv
+tU
+WU
+VO
+VO
+VO
+VO
+rX
+KV
+Gm
+Qm
+Gm
+Xh
+YY
+VO
+VO
+Yo
+SB
+xO
+dv
+TP
+TP
+bZ
+"}
+(17,1,1) = {"
+Gv
+SB
+SB
+SB
+zm
+SB
+sK
+sK
+Sg
+SB
+SB
+SB
+Tm
+sK
+sK
+SB
+th
+SB
+SB
+SB
+SB
+SB
+bZ
+"}
+(18,1,1) = {"
+Gv
+SB
+SB
+SB
+Wm
+LM
+OG
+QZ
+hB
+AT
+sK
+rR
+GO
+sU
+Jk
+LM
+Wm
+SB
+SB
+SB
+SB
+SB
+bZ
+"}
+(19,1,1) = {"
+cN
+cN
+cN
+SB
+Mz
+Wm
+Aa
+Ws
+xZ
+Vo
+sK
+ws
+MS
+bs
+Aa
+Wm
+vq
+SB
+cN
+cN
+cN
+cN
+cN
+"}
+(20,1,1) = {"
+cN
+cN
+cN
+SB
+eM
+Wm
+Wm
+Vi
+KG
+Sa
+sK
+Xp
+hO
+KP
+Wm
+Wm
+ud
+SB
+cN
+cN
+cN
+cN
+cN
+"}
+(21,1,1) = {"
+cN
+cN
+cN
+SB
+sK
+sK
+sK
+sK
+nQ
+dC
+VO
+oZ
+kK
+sK
+sK
+sK
+sK
+SB
+cN
+cN
+cN
+cN
+cN
+"}
+(22,1,1) = {"
+cN
+cN
+cN
+SB
+bc
+Kl
+Kl
+Kl
+KH
+Lr
+VO
+Lr
+HM
+Kl
+Kl
+Kl
+bc
+SB
+cN
+cN
+cN
+cN
+cN
+"}
+(23,1,1) = {"
+cN
+cN
+cN
+SB
+VO
+VO
+VO
+VO
+ss
+VO
+VO
+VO
+ss
+VO
+VO
+VO
+VO
+SB
+cN
+cN
+cN
+cN
+cN
+"}
+(24,1,1) = {"
+cN
+cN
+cN
+SB
+zc
+zc
+zc
+zc
+zc
+zc
+zc
+zc
+zc
+zc
+zc
+zc
+zc
+SB
+cN
+cN
+cN
+cN
+cN
+"}
+(25,1,1) = {"
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+RN
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+cN
+"}
