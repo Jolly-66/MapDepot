@@ -1,6 +1,8 @@
 # Skyrats Central Command Dock
 The End of Round Shuttle dock was updated per Host Request, to be less of a big "fuck around and find out" area to a "peaceful conclusion" to the round.
 
+This eventually turned into an AutoMapper template! Which is fancy Skyrat lingo for "this map gets pasted onto /tg/s map during initialization"!
+
 [PR Link](https://github.com/Skyrat-SS13/Skyrat-tg/pull/14924)
 
 <details>
