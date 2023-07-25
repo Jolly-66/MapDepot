@@ -24,3 +24,17 @@ HeavenStation-Original_edited.dmm is the map AFTER I had departed from the codeb
 [9](https://cdn.discordapp.com/attachments/914685829027340330/1123739780434383059/112192535-6ac10500-8bdd-11eb-8a6a-b8a02157996e.png)
 
 </details>
+
+<details>
+<summary> ORIGINAL HeavenStation</summary>
+
+![HeavenStation-Original](https://github.com/Jolly-66/MapDepot/assets/70232195/db1338bd-74ed-4083-9808-13bbb755bcbc)
+
+</details>
+
+<details>
+<summary>HeavenStation Post Departure</summary>
+
+![HeavenStation-Edited](https://github.com/Jolly-66/MapDepot/assets/70232195/f063ffce-450d-4718-81ab-8ab30a58f458)
+
+</details>
