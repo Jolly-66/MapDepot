@@ -1,0 +1,11536 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aa" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ad" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ae" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"an" = (
+/obj/effect/turf_decal/skyrat_decals/misc/handicapped,
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"ap" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 8
+	},
+/obj/machinery/light/warm/directional/south,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"av" = (
+/obj/structure/table/reinforced,
+/obj/item/folder{
+	pixel_x = 8;
+	pixel_y = 8
+	},
+/obj/item/folder/blue{
+	pixel_x = 4;
+	pixel_y = 5
+	},
+/obj/item/folder/yellow,
+/obj/item/stamp{
+	pixel_x = -8;
+	pixel_y = 12
+	},
+/obj/item/stamp/denied{
+	pixel_x = -8;
+	pixel_y = 6
+	},
+/obj/item/stamp/void{
+	pixel_x = -8
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"aB" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/structure/flora/bush/flowers_yw/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"aD" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"aJ" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/filled/arrow_cw{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"aK" = (
+/obj/structure/table,
+/obj/machinery/computer/libraryconsole{
+	dir = 1;
+	pixel_y = 6
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"aR" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"aW" = (
+/obj/machinery/light/directional/west,
+/obj/item/kirbyplants/organic/plant22,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"aY" = (
+/obj/effect/mapping_helpers/airlock/access/all/security/general,
+/obj/machinery/door/airlock/security{
+	name = "Interlink Security Processing"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/obj/structure/sign/departments/security/directional/north,
+/obj/effect/turf_decal/trimline/dark_red/filled/corner,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"aZ" = (
+/obj/machinery/light/very_dim/directional/south,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ba" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"bf" = (
+/obj/structure/table,
+/obj/machinery/light/cold/directional/north,
+/obj/effect/turf_decal/delivery/blue,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"bo" = (
+/obj/structure/chair/office{
+	dir = 4
+	},
+/turf/open/floor/iron/grimy,
+/area/centcom/interlink)
+"bp" = (
+/obj/machinery/light/directional/east,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"bz" = (
+/obj/machinery/modular_computer/preset/command,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"bF" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Interlink Locker Room"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"bG" = (
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/light_emitter/interlink,
+/obj/structure/fence/interlink{
+	dir = 4
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"bH" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"bJ" = (
+/obj/structure/closet/secure_closet/freezer/empty{
+	name = "produce freezer"
+	},
+/obj/item/food/grown/bell_pepper,
+/obj/item/food/grown/bell_pepper,
+/obj/item/food/grown/carrot,
+/obj/item/food/grown/carrot,
+/obj/item/food/grown/chili,
+/obj/item/food/grown/chili,
+/obj/item/food/grown/citrus/lemon,
+/obj/item/food/grown/citrus/lemon,
+/obj/item/food/grown/citrus/lime,
+/obj/item/food/grown/citrus/lime,
+/obj/item/food/grown/corn,
+/obj/item/food/grown/corn,
+/obj/item/food/grown/eggplant,
+/obj/item/food/grown/eggplant,
+/obj/item/food/grown/garlic,
+/obj/item/food/grown/garlic,
+/obj/item/food/grown/onion,
+/obj/item/food/grown/onion,
+/obj/item/food/grown/parsnip,
+/obj/item/food/grown/parsnip,
+/obj/item/food/grown/watermelon,
+/obj/item/food/grown/watermelon,
+/obj/item/food/grown/whitebeet,
+/obj/item/food/grown/whitebeet,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"bM" = (
+/obj/structure/flora/bush/large/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"bO" = (
+/obj/structure/table,
+/obj/machinery/reagentgrinder{
+	pixel_y = 6
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"bP" = (
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/obj/machinery/light/directional/east,
+/obj/effect/landmark/latejoin,
+/turf/open/floor/mineral/titanium,
+/area/centcom/interlink)
+"bU" = (
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/mineral/titanium,
+/area/centcom/interlink)
+"ca" = (
+/obj/structure/sign/painting/library{
+	pixel_y = -32
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ce" = (
+/obj/effect/turf_decal/trimline/blue/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ch" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"cl" = (
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"cs" = (
+/obj/structure/chair/sofa/bench/corner,
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"cv" = (
+/obj/structure/table/reinforced,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"cw" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"cx" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"cA" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/item/storage/box/matches,
+/obj/machinery/light/very_dim/directional/south,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"cB" = (
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "evac_hall";
+	name = "Interlink Access Shutters"
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"cE" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"cN" = (
+/obj/machinery/oven/range,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"cO" = (
+/obj/item/kirbyplants/organic/plant22,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"cP" = (
+/obj/structure/fluff/tram_rail{
+	desc = "This probably won't stop a titanium tram from hitting the wall, but it's the thought that counts.";
+	dir = 1;
+	name = "buffer rail"
+	},
+/obj/effect/turf_decal/stripes/asteroid/line,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"cQ" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"cR" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 6
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"cS" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"cU" = (
+/turf/open/floor/carpet/red,
+/area/centcom/interlink)
+"cZ" = (
+/obj/machinery/cryopod{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 10
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"dc" = (
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"dd" = (
+/obj/structure/closet/crate/wooden,
+/obj/item/stack/sheet/mineral/stone,
+/obj/item/stack/sheet/mineral/stone,
+/obj/item/stack/sheet/mineral/stone,
+/obj/item/stack/sheet/mineral/stone,
+/obj/item/stack/sheet/mineral/stone,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"de" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Administrative Offices"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/airlock/access/any/cent_com/rep_or_captain,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"di" = (
+/obj/machinery/light/floor,
+/obj/structure/railing{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"dk" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/machinery/button/door/directional/west{
+	id = "room6";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	pixel_y = -8;
+	specialfunctions = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"du" = (
+/obj/structure/closet,
+/obj/item/clothing/under/rank/centcom/officer/replica{
+	desc = "A cheaper, unarmored CentCom turtleneck meant for everyday wear. Somewhat of a status symbol.";
+	name = "\improper Civilian CentCom turtleneck"
+	},
+/obj/item/clothing/under/rank/centcom/officer_skirt/replica{
+	desc = "A cheaper, unarmored CentCom skirtleneck meant for everyday wear. Somewhat of a status symbol.";
+	name = "\improper Civilian CentCom skirtleneck"
+	},
+/obj/item/bedsheet/centcom,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/bot,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/item/toner/extreme,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"dv" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"dx" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/warning{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"dy" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/warning{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"dB" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"dD" = (
+/obj/structure/closet/secure_closet/personal,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 10
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"dH" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/mineral/titanium,
+/area/centcom/interlink)
+"dJ" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"dM" = (
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"dN" = (
+/obj/machinery/light/cold/directional/north,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"dO" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"dQ" = (
+/obj/structure/sign/poster/random/directional/north,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"dR" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"dS" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"dT" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"dU" = (
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"dV" = (
+/obj/machinery/door/poddoor/shuttledock/interlink,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"dW" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/machinery/light/small/directional/south,
+/obj/machinery/status_display/shuttle{
+	pixel_y = -32;
+	shuttle_id = "arrivals_shuttle"
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"dX" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"dZ" = (
+/obj/structure/sign/directions/security{
+	dir = 8;
+	pixel_y = -8
+	},
+/obj/structure/sign/directions/medical,
+/obj/structure/sign/directions/arrival{
+	dir = 1;
+	pixel_y = 8
+	},
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink)
+"ef" = (
+/obj/effect/turf_decal/caution,
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"eh" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ei" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/dark_green/filled/line,
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ej" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt,
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"el" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood/corner,
+/obj/machinery/light/warm/directional/east,
+/obj/structure/sign/poster/random/directional/east,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"em" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 10
+	},
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"eo" = (
+/obj/structure/bookcase/random/reference,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"eq" = (
+/obj/machinery/light/directional/west,
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"et" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"ev" = (
+/obj/structure/chair/sofa/left/brown{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"ex" = (
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ey" = (
+/obj/structure/flora/rock/style_random,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"eG" = (
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"eK" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/machinery/duct,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"eL" = (
+/obj/effect/turf_decal/stripes/asteroid/line{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"eO" = (
+/obj/structure/bookcase/random/nonfiction,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"eR" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"eV" = (
+/obj/item/kirbyplants/random,
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"eW" = (
+/obj/machinery/modular_computer/preset/command{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"eZ" = (
+/obj/machinery/door/poddoor/shutters/window/indestructible{
+	id = "interlink_hall";
+	name = "Windowed Interlink Access Shutters"
+	},
+/obj/effect/turf_decal/caution/stand_clear,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"fa" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"fb" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw,
+/obj/effect/turf_decal/siding/white/corner,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"fc" = (
+/obj/effect/turf_decal/delivery,
+/obj/structure/closet/crate/bin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"fk" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/centcom/interlink)
+"fm" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 1
+	},
+/obj/structure/extinguisher_cabinet/directional/south,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"fp" = (
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"fz" = (
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/closet/crate/bin,
+/obj/item/reagent_containers/cup/glass/coffee_cup,
+/obj/item/reagent_containers/cup/glass/coffee_cup,
+/obj/item/reagent_containers/cup/glass/coffee_cup,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"fA" = (
+/obj/machinery/light/directional/west,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"fB" = (
+/obj/machinery/light/floor,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"fJ" = (
+/obj/structure/table,
+/obj/item/storage/fancy/candle_box{
+	pixel_y = 8
+	},
+/obj/item/storage/fancy/candle_box{
+	pixel_y = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"fN" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/machinery/light/very_dim/directional/north,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"fO" = (
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"fP" = (
+/obj/machinery/telecomms/relay/preset/station,
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"fV" = (
+/obj/structure/railing/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"fZ" = (
+/obj/structure/rack,
+/obj/item/mop,
+/obj/item/soap/homemade,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"gc" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"gd" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"gh" = (
+/obj/machinery/light/very_dim/directional/north,
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"gi" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"gl" = (
+/obj/machinery/light/directional/south,
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"go" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"gr" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 10
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"gu" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"gv" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark_green/filled/line,
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"gy" = (
+/obj/machinery/status_display/evac/directional/south,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"gz" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"gA" = (
+/obj/machinery/door/airlock/medical/glass{
+	name = "Interlink Medbay"
+	},
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"gG" = (
+/obj/machinery/door/airlock{
+	id_tag = "stall3";
+	name = "E-Stall"
+	},
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"gK" = (
+/turf/open/floor/mineral/titanium/blue,
+/area/centcom/interlink)
+"gN" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/item/storage/fancy/candle_box{
+	pixel_y = 10
+	},
+/obj/item/storage/fancy/candle_box/amber{
+	pixel_y = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"gR" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "il_bar";
+	name = "Interlink Bar Shutters"
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"gS" = (
+/obj/machinery/light/directional/west,
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"hc" = (
+/obj/structure/table/reinforced,
+/obj/item/folder{
+	pixel_x = -6;
+	pixel_y = 8
+	},
+/obj/item/folder/blue{
+	pixel_x = -4;
+	pixel_y = 5
+	},
+/obj/item/folder/yellow{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/obj/item/stamp{
+	pixel_x = 8;
+	pixel_y = 12
+	},
+/obj/item/stamp/denied{
+	pixel_x = 8;
+	pixel_y = 6
+	},
+/obj/item/stamp/void{
+	pixel_x = 8
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"hd" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/chair/sofa/bench/right{
+	dir = 1;
+	greyscale_colors = "#AA8A61"
+	},
+/obj/machinery/light/warm/directional/south,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"hf" = (
+/obj/structure/chair/sofa/bench/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"hi" = (
+/obj/machinery/light/warm/directional/north,
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"hk" = (
+/obj/structure/table,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"hl" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"hm" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ho" = (
+/obj/machinery/vending/coffee,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"hr" = (
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"hx" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/fluff/arc,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"hA" = (
+/obj/machinery/status_display/shuttle{
+	pixel_y = 32;
+	shuttle_id = "arrivals_shuttle"
+	},
+/obj/machinery/computer/shuttle/arrivals/recall,
+/obj/effect/turf_decal/box,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"hC" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"hD" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "arr_hall_lookout";
+	name = "Interlink Access Shutters"
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"hJ" = (
+/obj/structure/chair/sofa/bench/right,
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"hK" = (
+/obj/structure/chair/stool/directional/north,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"hV" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/structure/closet/crate/bin,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"hW" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"ia" = (
+/obj/item/storage/basket,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/carpet/red,
+/area/centcom/interlink)
+"ib" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/machinery/door/poddoor/shutters/window/indestructible{
+	id = "evac_hall";
+	name = "Windowed Interlink Access Shutters"
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"if" = (
+/obj/structure/railing/corner,
+/obj/effect/turf_decal/arrows{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ig" = (
+/obj/structure/table/wood,
+/obj/effect/spawner/random/entertainment/dice{
+	pixel_y = 4
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"ih" = (
+/obj/structure/table/wood,
+/obj/machinery/fax{
+	fax_name = "Interlink Meeting Room";
+	pixel_y = 5
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ij" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"ik" = (
+/obj/machinery/duct,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"iq" = (
+/obj/structure/chair/sofa/corp/left{
+	dir = 4
+	},
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"it" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/warning{
+	dir = 10
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"iz" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"iB" = (
+/turf/open/space/basic,
+/area/space)
+"iE" = (
+/obj/structure/sign/poster/random/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"iG" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"iH" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"iI" = (
+/obj/structure/frame/computer,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"iJ" = (
+/obj/machinery/light/warm/directional/north,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"iK" = (
+/obj/machinery/computer/records/security{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"iL" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_br/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"iQ" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4;
+	greyscale_colors = "#B4CDDC"
+	},
+/obj/machinery/duct,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"iT" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white,
+/obj/structure/chair/sofa/bench,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"iU" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 8
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"jc" = (
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "arriv_hall";
+	name = "Interlink Access Shutters"
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"jk" = (
+/obj/machinery/light/directional/east,
+/obj/effect/turf_decal/trimline/dark_green/filled/warning{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"jl" = (
+/obj/structure/chair/sofa/bench/right,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"jo" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 5
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"jq" = (
+/obj/effect/turf_decal/skyrat_decals/misc/handicapped,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"jr" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 9
+	},
+/obj/machinery/duct,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"jt" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"jy" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"jF" = (
+/obj/machinery/computer/records/security,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"jK" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"jN" = (
+/obj/machinery/vending/games,
+/obj/machinery/light/small/directional/west,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"jO" = (
+/obj/machinery/vending/dorms,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"jP" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"jT" = (
+/obj/machinery/door/window/left/directional/south{
+	name = "Coffee Counter"
+	},
+/obj/machinery/duct,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"jU" = (
+/obj/structure/closet/secure_closet/freezer/empty{
+	name = "produce freezer"
+	},
+/obj/item/food/grown/apple,
+/obj/item/food/grown/apple,
+/obj/item/food/grown/banana,
+/obj/item/food/grown/banana,
+/obj/item/food/grown/berries,
+/obj/item/food/grown/berries,
+/obj/item/food/grown/cherries,
+/obj/item/food/grown/cherries,
+/obj/item/food/grown/citrus/orange,
+/obj/item/food/grown/citrus/orange,
+/obj/item/food/grown/grapes,
+/obj/item/food/grown/grapes,
+/obj/item/food/grown/peas,
+/obj/item/food/grown/peas,
+/obj/item/food/grown/pineapple,
+/obj/item/food/grown/pineapple,
+/obj/item/food/grown/plum,
+/obj/item/food/grown/plum,
+/obj/item/food/grown/potato,
+/obj/item/food/grown/potato,
+/obj/item/food/grown/pumpkin,
+/obj/item/food/grown/pumpkin,
+/obj/item/food/grown/redbeet,
+/obj/item/food/grown/redbeet,
+/obj/item/food/grown/tomato,
+/obj/item/food/grown/tomato,
+/obj/item/food/grown/wheat,
+/obj/item/food/grown/wheat,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"jV" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 5
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"jW" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"jZ" = (
+/obj/machinery/door/airlock/service{
+	name = "Interlink Kitchen"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/service/bar,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"kq" = (
+/obj/machinery/light/directional/east,
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"kx" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"kz" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/large/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"kC" = (
+/obj/machinery/door/airlock{
+	id_tag = "room4";
+	name = "Cabin"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"kH" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"kL" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"kO" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"kP" = (
+/obj/structure/flora/bush/flowers_pp/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"kQ" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	name = "Interlink Locker Room"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"kR" = (
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"kW" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Interlink Garden"
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"lb" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"lh" = (
+/obj/machinery/door/airlock/bathroom{
+	name = "Bathroom"
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"lm" = (
+/obj/structure/dresser,
+/obj/structure/sign/painting/library{
+	pixel_y = 32
+	},
+/obj/machinery/light/warm/no_nightlight/directional/north,
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"ln" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ls" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	name = "Interlink Access"
+	},
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "arriv_hall";
+	name = "Interlink Access Shutters"
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"lu" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"lx" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"lD" = (
+/obj/structure/chair/sofa/bench{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"lL" = (
+/obj/effect/turf_decal/siding/white/corner,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"lU" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/line,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"lV" = (
+/obj/effect/turf_decal/trimline/blue/filled/arrow_cw{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"lX" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"md" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Blueshield's Office"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/command/captain,
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"mj" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"ml" = (
+/obj/effect/spawner/structure/window,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"mt" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"mw" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"mG" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/machinery/button/door/directional/west{
+	id = "room7";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	pixel_y = -8;
+	specialfunctions = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"mJ" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"mO" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"mP" = (
+/obj/machinery/duct,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"na" = (
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ng" = (
+/obj/machinery/shower/directional/south,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"nh" = (
+/obj/structure/fluff/tram_rail/end{
+	desc = "This probably won't stop a titanium tram from hitting the wall, but it's the thought that counts.";
+	dir = 1;
+	name = "buffer rail"
+	},
+/obj/effect/turf_decal/stripes/asteroid/line,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"ni" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"nj" = (
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"nk" = (
+/obj/structure/bed,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"nl" = (
+/obj/structure/flora/rock/pile/style_random,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"nm" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	name = "Interlink Public Garden"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"nr" = (
+/obj/machinery/light/very_dim/directional/east,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ns" = (
+/turf/closed/indestructible/fakedoor{
+	desc = "Why would you want to go back, you just got here!";
+	name = "Cent Com Prison Shuttle Dock"
+	},
+/area/centcom/interlink)
+"nu" = (
+/obj/effect/turf_decal/siding/white,
+/obj/structure/chair/sofa/bench,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"nv" = (
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ny" = (
+/obj/item/kirbyplants/organic/plant22,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"nz" = (
+/obj/structure/table,
+/obj/machinery/light/cold/directional/south,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"nC" = (
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"nD" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/item/kirbyplants/random,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"nE" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	name = "Interlink Longue"
+	},
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"nF" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"nG" = (
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"nM" = (
+/obj/machinery/light/directional/south,
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"nN" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	name = "Interlink Access"
+	},
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "evac_hall";
+	name = "Interlink Access Shutters"
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"nY" = (
+/obj/structure/flora/tree/jungle/style_4,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"oc" = (
+/obj/machinery/deepfryer,
+/obj/machinery/light/cold/directional/east,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"of" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"om" = (
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"oo" = (
+/obj/structure/sign/poster/random/directional/north,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"op" = (
+/obj/structure/rack,
+/obj/item/reagent_containers/cup/rag,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ow" = (
+/obj/machinery/door/airlock/medical/glass{
+	name = "Interlink Medbay"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"oz" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"oD" = (
+/obj/structure/sign/poster/random/directional/south,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"oK" = (
+/obj/machinery/duct,
+/obj/effect/turf_decal/trimline/dark_green/filled/warning,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"oP" = (
+/obj/structure/toilet{
+	dir = 8
+	},
+/obj/structure/window/reinforced/tinted/spawner/directional/south,
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"oU" = (
+/obj/machinery/light/small/directional/west,
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"oW" = (
+/obj/effect/turf_decal/siding/white/corner,
+/obj/effect/turf_decal/trimline/blue/filled/arrow_cw{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"oZ" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"pb" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/tree/jungle/small/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"pe" = (
+/obj/effect/turf_decal/siding/dark_blue,
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"pg" = (
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ph" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"pi" = (
+/obj/structure/chair/sofa/bench{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"pj" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/corner,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"pl" = (
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"po" = (
+/obj/structure/rack,
+/obj/item/pushbroom,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"pp" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/warning,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"pw" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/chair/sofa/middle/brown,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"px" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"pz" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/tree/jungle/small/style_6,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"pB" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"pD" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"pJ" = (
+/obj/machinery/computer/operating{
+	dir = 4
+	},
+/obj/effect/turf_decal/delivery/blue,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"pK" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/machinery/door/airlock/multi_tile/glass{
+	dir = 4;
+	name = "Interlink Cafe"
+	},
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"pM" = (
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp/green{
+	pixel_y = 5
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"pN" = (
+/obj/effect/turf_decal/trimline/green/line,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"pO" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	dir = 4;
+	name = "Interlink Garden"
+	},
+/obj/effect/turf_decal/trimline/green/arrow_ccw,
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"pV" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 9
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"qc" = (
+/obj/item/toy/plush/lizard_plushie/green{
+	name = "Hisses-At-Mappers"
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"qe" = (
+/obj/structure/table/wood,
+/obj/item/clipboard{
+	pixel_y = 10
+	},
+/obj/item/folder/blue{
+	pixel_y = 19
+	},
+/obj/item/flashlight/lamp/green{
+	pixel_y = 5
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"qf" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"qi" = (
+/obj/structure/plaque/static_plaque/golden/captain{
+	pixel_x = -32
+	},
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"qo" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"qt" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"qx" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"qy" = (
+/obj/machinery/door/airlock/centcom{
+	name = "ERT Access"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/obj/effect/mapping_helpers/airlock/access/any/cent_com/rep_or_captain,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"qE" = (
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/obj/item/coffee_cartridge{
+	pixel_y = 10
+	},
+/obj/item/coffee_cartridge{
+	pixel_y = 6
+	},
+/obj/item/coffee_cartridge/bootleg,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"qF" = (
+/obj/structure/closet/crate/bin,
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -9
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -3
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = 3
+	},
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"qG" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"qH" = (
+/obj/machinery/computer/records/security,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"qT" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/item/kirbyplants/random,
+/obj/machinery/button/door/directional/south{
+	id = "room2";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	pixel_x = -8;
+	specialfunctions = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"qV" = (
+/obj/machinery/light/directional/west,
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"qW" = (
+/obj/machinery/photocopier,
+/obj/machinery/button/door/directional/north{
+	id = "ntrep_shutters";
+	name = "Privacy Shutter Comtrol";
+	pixel_x = 8;
+	req_access = list("command")
+	},
+/obj/effect/turf_decal/bot,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"ra" = (
+/obj/structure/sink/directional/south,
+/obj/structure/mirror/directional/north,
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"rc" = (
+/obj/machinery/duct,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"ri" = (
+/obj/machinery/iv_drip,
+/obj/machinery/light/cold/directional/south,
+/obj/effect/turf_decal/bot_blue,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"rj" = (
+/obj/item/kirbyplants/organic/plant22,
+/obj/effect/turf_decal/trimline/dark_green/line,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"rk" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"rv" = (
+/obj/structure/bed/double,
+/obj/item/bedsheet/random/double,
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"rB" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/machinery/light/warm/directional/north,
+/obj/effect/turf_decal/skyrat_decals/misc/handicapped,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"rC" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"rD" = (
+/obj/machinery/door/window/brigdoor/left/directional/north{
+	name = "Interlink Wardens Office";
+	req_access = list("armory")
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"rL" = (
+/obj/structure/fence/interlink{
+	dir = 4
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"rS" = (
+/obj/item/food/grown/herbs,
+/obj/item/food/grown/herbs,
+/obj/item/food/grown/olive,
+/obj/item/food/grown/olive,
+/obj/item/food/grown/peanut,
+/obj/item/food/grown/peanut,
+/obj/item/food/grown/tea,
+/obj/item/food/grown/tea,
+/obj/structure/closet/secure_closet/freezer/empty{
+	name = "produce freezer"
+	},
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"rV" = (
+/obj/structure/closet/crate/bin,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"rX" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"sa" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"sl" = (
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/obj/machinery/coffeemaker{
+	pixel_y = 10
+	},
+/obj/machinery/light/warm/directional/north,
+/obj/item/reagent_containers/cup/coffeepot{
+	pixel_x = -7;
+	pixel_y = 3
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"sn" = (
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"so" = (
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"sq" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/obj/structure/flora/bush/flowers_pp/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"sr" = (
+/obj/structure/table/wood,
+/obj/item/folder/white{
+	pixel_x = -8;
+	pixel_y = 3
+	},
+/obj/item/pen/red{
+	pixel_x = -3;
+	pixel_y = 9
+	},
+/turf/open/floor/carpet/executive,
+/area/centcom/interlink)
+"sw" = (
+/obj/machinery/door/airlock/medical/glass{
+	name = "Interlink Medbay"
+	},
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 1
+	},
+/obj/structure/sign/departments/medbay/alt/directional/north,
+/obj/effect/turf_decal/trimline/blue/filled/arrow_cw,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"sD" = (
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"sR" = (
+/obj/structure/table,
+/obj/structure/bedsheetbin,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"sS" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 1
+	},
+/obj/machinery/light/warm/directional/south,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"sT" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"sU" = (
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"tb" = (
+/obj/item/kirbyplants/organic/plant22,
+/obj/machinery/light/warm/directional/north,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"td" = (
+/obj/structure/sign/directions/arrival{
+	dir = 1
+	},
+/obj/structure/sign/directions/dorms{
+	pixel_y = 8
+	},
+/obj/structure/sign/directions/evac{
+	pixel_y = -8
+	},
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink)
+"te" = (
+/obj/structure/chair/sofa/right/brown{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"tf" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"tg" = (
+/obj/machinery/door/airlock{
+	id_tag = "room5";
+	name = "Cabin"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"tk" = (
+/obj/machinery/duct,
+/obj/machinery/dryer{
+	dir = 8;
+	pixel_x = 7
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"tl" = (
+/obj/structure/flora/tree/jungle/small/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"tn" = (
+/obj/structure/closet/secure_closet/freezer/kitchen,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"to" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 10
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"tr" = (
+/obj/item/toy/plush/lizard_plushie/green{
+	name = "Breaks-The-Maps"
+	},
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"tv" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"tw" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_br/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"tB" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/warning{
+	dir = 6
+	},
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"tG" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"tJ" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 1
+	},
+/obj/machinery/light/warm/directional/south,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"tL" = (
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"tR" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"tS" = (
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"tT" = (
+/obj/structure/table/wood,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"tW" = (
+/obj/structure/sign/poster/random/directional/north,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"tX" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"uc" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw,
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"uh" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/structure/chair/sofa/bench/right{
+	dir = 8
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"un" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "il_kitchen";
+	name = "Interlink Kitchen Shutters"
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"up" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ur" = (
+/obj/machinery/door/airlock/medical{
+	name = "Interlink Operating Room"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/medical/surgery,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"us" = (
+/obj/machinery/door/airlock/security/glass{
+	name = "Interlink Security Post"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/security/general,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"uv" = (
+/obj/structure/table,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"uA" = (
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"uB" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"uC" = (
+/obj/machinery/duct,
+/obj/machinery/light/directional/south,
+/obj/effect/turf_decal/trimline/dark_green/filled/line,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"uD" = (
+/obj/machinery/photocopier,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"uH" = (
+/obj/machinery/door/window/left/directional/east{
+	name = "Coffee Counter"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"uM" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"uO" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"uR" = (
+/obj/machinery/duct,
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 8
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"uV" = (
+/obj/structure/table/wood,
+/obj/item/paper_bin{
+	pixel_y = 5
+	},
+/obj/item/pen,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"uZ" = (
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ve" = (
+/obj/item/kirbyplants/organic/plant22,
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"vl" = (
+/obj/structure/table/wood,
+/obj/item/storage/fancy/donut_box,
+/turf/open/floor/carpet/executive,
+/area/centcom/interlink)
+"vm" = (
+/obj/structure/flora/tree/stump,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"vn" = (
+/obj/structure/chair/office,
+/obj/machinery/button/door/directional/west{
+	id = "interlink_hall";
+	name = "Evac Hall Shutter Control";
+	pixel_y = -8;
+	req_access = list("security")
+	},
+/obj/machinery/button/door/directional/west{
+	id = "evac_hall";
+	name = "Evac Access Shutter Control";
+	pixel_y = 8;
+	req_access = list("security")
+	},
+/obj/machinery/light/cold/directional/west,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"vo" = (
+/obj/structure/chair/sofa/bench/corner,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"vr" = (
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"vt" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Communications Access"
+	},
+/obj/effect/mapping_helpers/airlock/cutaiwire,
+/obj/effect/mapping_helpers/airlock/access/any/cent_com/rep_or_captain,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"vv" = (
+/obj/effect/turf_decal/arrows{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"vx" = (
+/obj/structure/chair/stool/directional/south,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"vz" = (
+/obj/structure/flora/tree/jungle,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"vE" = (
+/obj/structure/barricade/wooden,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"vF" = (
+/turf/open/floor/mineral/titanium,
+/area/centcom/interlink)
+"vI" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/structure/chair/sofa/bench/right{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"vL" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"vM" = (
+/obj/structure/table/wood,
+/obj/item/clipboard,
+/obj/item/folder/red,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"vN" = (
+/obj/structure/chair/office,
+/obj/machinery/button/door/directional/east{
+	id = "interlink_hall";
+	name = "Evac Hall Shutter Control";
+	pixel_y = -8;
+	req_access = list("security")
+	},
+/obj/machinery/button/door/directional/east{
+	id = "evac_hall";
+	name = "Evac Access Shutter Control";
+	pixel_y = 8;
+	req_access = list("security")
+	},
+/obj/machinery/light/cold/directional/east,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"vO" = (
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"vP" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/item/kirbyplants/random,
+/obj/machinery/button/door/directional/south{
+	id = "room1";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	pixel_x = -8;
+	specialfunctions = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"vT" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Nanotrasen Consultant's Office"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/cent_com/rep_door,
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"vY" = (
+/obj/docking_port/stationary{
+	dir = 8;
+	dwidth = 1;
+	height = 13;
+	name = "tram dock";
+	roundstart_template = /datum/map_template/shuttle/arrivals_skyrat;
+	shuttle_id = "arrivals_shuttle";
+	width = 5
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"vZ" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/window/brigdoor/right/directional/north{
+	name = "Interlink Customs";
+	req_access = list("cent_general")
+	},
+/obj/machinery/door/window/right/directional/south,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"wd" = (
+/obj/machinery/door/airlock{
+	id_tag = "room1";
+	name = "Cabin"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"we" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	name = "Interlink"
+	},
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"wn" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/chair/sofa/right/brown,
+/obj/structure/sign/painting/large/library{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"wq" = (
+/obj/structure/table/wood,
+/obj/item/stamp/centcom{
+	pixel_x = -8;
+	pixel_y = 10
+	},
+/obj/item/stamp{
+	pixel_y = 10
+	},
+/obj/item/stamp/void{
+	pixel_x = 8;
+	pixel_y = 10
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"wC" = (
+/obj/machinery/vending/dinnerware,
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"wI" = (
+/obj/structure/reagent_dispensers/plumbed,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"wJ" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Arrivals"
+	},
+/turf/open/floor/mineral/titanium/blue,
+/area/centcom/interlink)
+"wL" = (
+/obj/structure/bookcase/random/adult,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"wO" = (
+/obj/machinery/light/floor,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"wP" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/structure/bookcase/random/religion,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"wQ" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	name = "Interlink Bar"
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"wR" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"wT" = (
+/obj/structure/table/reinforced,
+/obj/item/paper_bin{
+	pixel_y = 5
+	},
+/obj/item/pen,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"wU" = (
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"wX" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"xb" = (
+/obj/machinery/light/floor,
+/obj/structure/railing,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"xd" = (
+/obj/structure/fluff/tram_rail/anchor{
+	desc = "This probably won't stop a titanium tram from hitting the wall, but it's the thought that counts.";
+	dir = 1;
+	name = "buffer rail anchor"
+	},
+/obj/effect/turf_decal/stripes/asteroid/line,
+/obj/machinery/light/floor,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"xe" = (
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"xj" = (
+/obj/structure/table,
+/obj/item/storage/medkit/brute{
+	pixel_x = 8;
+	pixel_y = 10
+	},
+/obj/item/storage/medkit/fire{
+	pixel_y = 6
+	},
+/obj/effect/turf_decal/delivery/blue,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"xr" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/chair/sofa/middle/brown,
+/obj/structure/sign/painting/large/library{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"xt" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"xw" = (
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"xA" = (
+/turf/closed/indestructible/fakedoor{
+	desc = "Why would you want to go back, you just got here!";
+	name = "Central Command Dock"
+	},
+/area/centcom/interlink)
+"xE" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/structure/flora/bush/large/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"xJ" = (
+/obj/machinery/stasis,
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"xN" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"xW" = (
+/obj/machinery/door/airlock{
+	id_tag = "room7";
+	name = "Cabin"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"xX" = (
+/obj/item/kirbyplants/organic/plant22,
+/obj/machinery/light/warm/directional/south,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"xZ" = (
+/obj/structure/table/reinforced,
+/obj/machinery/dish_drive{
+	pixel_y = 5
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"yj" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white,
+/obj/structure/chair/sofa/bench/left,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"yp" = (
+/obj/structure/sign/directions/arrival{
+	dir = 1
+	},
+/obj/structure/sign/directions/evac{
+	pixel_y = -8
+	},
+/obj/structure/sign/directions/dorms{
+	dir = 4;
+	pixel_y = 8
+	},
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink)
+"yr" = (
+/obj/machinery/door/airlock{
+	id_tag = "room6";
+	name = "Cabin"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"yD" = (
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"yE" = (
+/obj/structure/chair/sofa/bench/left,
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"yG" = (
+/obj/structure/bed{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"yH" = (
+/obj/machinery/button/door/directional/north{
+	id = "il_kitchen";
+	name = "Kitchen Shutter Control";
+	pixel_x = -8;
+	req_access = list("kitchen")
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"yP" = (
+/obj/structure/railing,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"yU" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"yY" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"yZ" = (
+/obj/structure/chair/comfy/brown{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"za" = (
+/obj/structure/chair/sofa/bench/corner,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 5
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"zb" = (
+/obj/structure/chair/stool/bar/directional/south,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"zc" = (
+/obj/structure/bookcase/random/fiction,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"zf" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"zh" = (
+/obj/structure/urinal/directional/north,
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"zq" = (
+/obj/machinery/photocopier,
+/obj/machinery/button/door/directional/south{
+	id = "bs_shutters";
+	name = "Privacy Shutter Comtrol";
+	pixel_x = 8;
+	req_access = list("command")
+	},
+/obj/effect/turf_decal/bot,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"zr" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/mineral/titanium,
+/area/centcom/interlink)
+"zu" = (
+/obj/structure/chair/comfy/brown{
+	dir = 1
+	},
+/turf/open/floor/carpet/executive,
+/area/centcom/interlink)
+"zw" = (
+/obj/machinery/light/directional/west,
+/obj/structure/table,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"zx" = (
+/obj/machinery/washing_machine,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"zL" = (
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 10
+	},
+/obj/machinery/button/door/directional/west{
+	id = "il_bar";
+	name = "Bar Shutter Control";
+	pixel_y = -8;
+	req_access = list("bar")
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"zM" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"zN" = (
+/obj/machinery/vending/boozeomat,
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"zP" = (
+/obj/machinery/light/cold/directional/south,
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"zQ" = (
+/obj/machinery/light/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"zX" = (
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks/beer,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"zY" = (
+/obj/structure/toilet{
+	dir = 8
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"zZ" = (
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"Ai" = (
+/obj/item/flashlight/lantern,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"Aj" = (
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink)
+"Al" = (
+/obj/machinery/door/morgue{
+	name = "Adult Section"
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Au" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"AC" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 4;
+	greyscale_colors = "#B4CDDC"
+	},
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"AD" = (
+/obj/structure/chair/stool/bar/directional/north,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"AO" = (
+/obj/machinery/door/poddoor/ert,
+/obj/effect/turf_decal/stripes/asteroid/line{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"AP" = (
+/obj/machinery/status_display/evac/directional/west,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"AX" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ba" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Interlink"
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Bb" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Bc" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/item/storage/fancy/candle_box/pear{
+	pixel_y = 10
+	},
+/obj/item/storage/fancy/candle_box/vanilla{
+	pixel_y = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Bj" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/machinery/button/door/directional/west{
+	id = "room8";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	pixel_y = -8;
+	specialfunctions = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"BC" = (
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"BE" = (
+/obj/structure/closet/secure_closet/brig{
+	id = "Cell 3";
+	name = "Cell 3 Locker"
+	},
+/obj/machinery/light/small/directional/south,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"BF" = (
+/obj/structure/chair/comfy/brown,
+/turf/open/floor/carpet/executive,
+/area/centcom/interlink)
+"BG" = (
+/obj/machinery/status_display/shuttle{
+	pixel_y = 32;
+	shuttle_id = "arrivals_shuttle"
+	},
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"BH" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"BL" = (
+/obj/machinery/iv_drip,
+/obj/effect/turf_decal/bot_blue,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"BN" = (
+/obj/machinery/door/window/brigdoor/right/directional/south{
+	name = "Interlink Cell";
+	req_access = list("brig")
+	},
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"BP" = (
+/obj/structure/closet{
+	name = "Cryogenics Sleepware"
+	},
+/obj/item/clothing/under/misc/pj/red,
+/obj/item/clothing/under/misc/pj/red,
+/obj/item/clothing/head/costume/nightcap/red,
+/obj/item/clothing/head/costume/nightcap/red,
+/obj/effect/turf_decal/trimline/blue/filled/line,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"BX" = (
+/obj/structure/sink/directional/south,
+/obj/structure/mirror/directional/north,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"BY" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"BZ" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Administrative Confrence Room"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/obj/effect/mapping_helpers/airlock/access/all/command/general,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Cc" = (
+/turf/closed/wall/mineral/titanium,
+/area/centcom/interlink)
+"Ci" = (
+/obj/machinery/door/airlock{
+	id_tag = "stall1";
+	name = "Stall"
+	},
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Cj" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"Cm" = (
+/obj/structure/table/wood,
+/turf/open/floor/carpet/red,
+/area/centcom/interlink)
+"Cn" = (
+/obj/structure/closet/crate/freezer/blood,
+/obj/effect/turf_decal/bot_blue,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"Co" = (
+/obj/effect/turf_decal/loading_area{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Cs" = (
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Cv" = (
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Cw" = (
+/obj/effect/spawner/structure/window/reinforced/shuttle,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Cy" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"Cz" = (
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"CF" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"CH" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"CI" = (
+/obj/structure/chair/stool/bar/directional/east,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"CJ" = (
+/obj/machinery/light/small/directional/west,
+/obj/structure/sign/poster/random/directional/west,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"CK" = (
+/obj/structure/chair/stool/bar/directional/west,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"CL" = (
+/obj/machinery/vending/cigarette,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"CP" = (
+/obj/machinery/status_display/evac/directional/north,
+/obj/effect/turf_decal/trimline/dark_green/line,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"CS" = (
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp{
+	pixel_y = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"CV" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"CW" = (
+/obj/structure/closet{
+	name = "Cryogenics Sleepware"
+	},
+/obj/item/clothing/under/misc/pj/blue,
+/obj/item/clothing/under/misc/pj/blue,
+/obj/item/clothing/head/costume/nightcap/blue,
+/obj/item/clothing/head/costume/nightcap/blue,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 10
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"CZ" = (
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/obj/machinery/door/window/left/directional/south{
+	name = "Coffee Counter"
+	},
+/obj/item/reagent_containers/cup/glass/coffee_cup{
+	pixel_x = -5;
+	pixel_y = 12
+	},
+/obj/item/reagent_containers/cup/glass/coffee_cup{
+	pixel_y = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Dc" = (
+/obj/structure/table,
+/obj/machinery/processor{
+	pixel_y = 12
+	},
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"Dd" = (
+/obj/structure/chair/sofa/bench{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"Dk" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Dm" = (
+/obj/structure/toilet{
+	dir = 1
+	},
+/obj/machinery/button/door/directional/south{
+	id = "stall2";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	specialfunctions = 4
+	},
+/obj/machinery/light/small/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Dp" = (
+/obj/effect/spawner/random/vending/colavend,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Dq" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 8
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/mineral/titanium,
+/area/centcom/interlink)
+"Dv" = (
+/obj/structure/fluff/tram_rail/end{
+	desc = "This probably won't stop a titanium tram from hitting the wall, but it's the thought that counts.";
+	dir = 4;
+	name = "buffer rail"
+	},
+/obj/effect/turf_decal/stripes/asteroid/line,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Dx" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/bookcase/random,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"Dz" = (
+/obj/structure/dresser,
+/obj/machinery/light/warm/no_nightlight/directional/north,
+/obj/structure/sign/painting/library{
+	pixel_y = 32
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"DA" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	dir = 4;
+	name = "Interlink Bar"
+	},
+/obj/effect/turf_decal/trimline/green/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"DB" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/fence,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"DD" = (
+/obj/structure/flora/bush/flowers_pp/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"DF" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"DG" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"DI" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 6
+	},
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"DN" = (
+/obj/structure/sign/directions/evac{
+	pixel_y = -8
+	},
+/obj/structure/sign/directions/arrival{
+	dir = 1
+	},
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink)
+"DY" = (
+/obj/structure/chair/sofa/bench/right,
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Ee" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium,
+/area/centcom/interlink)
+"Eg" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Ej" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ek" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"El" = (
+/obj/machinery/light/directional/east,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Eo" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Ep" = (
+/obj/structure/chair/sofa/bench,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"Ez" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"EF" = (
+/obj/machinery/door/airlock/bathroom{
+	name = "Unisex Bathroom"
+	},
+/obj/effect/turf_decal/siding/white,
+/obj/machinery/duct,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"EI" = (
+/obj/machinery/computer/records/medical{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"EJ" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 9
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"EM" = (
+/obj/machinery/light/directional/south,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"EP" = (
+/obj/effect/turf_decal/caution/stand_clear{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"EU" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"EZ" = (
+/obj/structure/table/wood,
+/obj/item/paper_bin{
+	pixel_y = 5
+	},
+/obj/item/pen/fourcolor,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Fd" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Administrative Offices"
+	},
+/obj/machinery/button/door/directional/west{
+	id = "evac_hall_lookout";
+	name = "Lookout Shutters Control";
+	pixel_y = -8;
+	req_access = list("command")
+	},
+/obj/effect/turf_decal/trimline/dark_green/corner{
+	dir = 4
+	},
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "evac_hall_lookout";
+	name = "Interlink Access Shutters"
+	},
+/obj/effect/mapping_helpers/airlock/cutaiwire,
+/obj/effect/mapping_helpers/airlock/access/any/cent_com/rep_or_captain,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Fe" = (
+/obj/machinery/door/poddoor/shutters/window/preopen,
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Fh" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/green/filled/corner,
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Fj" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Fm" = (
+/obj/structure/table/wood,
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"Fo" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"Ft" = (
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Fv" = (
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Fw" = (
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/item/kirbyplants/random,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Fy" = (
+/obj/machinery/griddle,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"Fz" = (
+/obj/structure/bookcase/random/religion,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"FB" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 6
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"FF" = (
+/obj/machinery/light/small/directional/east,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"FT" = (
+/obj/structure/chair/sofa/left/brown{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"FV" = (
+/obj/machinery/light/cold/directional/south,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"FY" = (
+/obj/item/kirbyplants/random,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Gc" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ge" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/structure/bookcase/random/reference,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Gf" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Gh" = (
+/turf/closed/indestructible/fakedoor{
+	desc = "Why would you want to go back, you just got here!";
+	name = "Central Command Security Dock"
+	},
+/area/centcom/interlink)
+"Gi" = (
+/obj/structure/sign/poster/random/directional/south,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Gj" = (
+/obj/machinery/door/airlock{
+	id_tag = "room8";
+	name = "Cabin"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Gl" = (
+/obj/effect/turf_decal/trimline/blue/filled/corner,
+/obj/effect/turf_decal/siding/white/corner,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Gn" = (
+/obj/structure/sign/directions/security{
+	dir = 8;
+	pixel_y = -8
+	},
+/obj/structure/sign/directions/medical,
+/obj/structure/sign/directions/arrival{
+	dir = 4;
+	pixel_y = 8
+	},
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink)
+"Gx" = (
+/obj/machinery/duct,
+/obj/effect/turf_decal/trimline/dark_green/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Gz" = (
+/obj/machinery/door/poddoor/shutters/window/preopen{
+	id = "cc_arrivals"
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"GA" = (
+/obj/structure/sign/poster/random/directional/east,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"GC" = (
+/obj/effect/turf_decal/trimline/blue/filled/arrow_cw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"GD" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 1
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"GE" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"GG" = (
+/obj/structure/chair/office{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"GH" = (
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/obj/machinery/light/warm/directional/west,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"GI" = (
+/obj/machinery/shower/directional/west,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"GP" = (
+/obj/effect/turf_decal/caution/stand_clear,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"GU" = (
+/obj/structure/table/wood,
+/obj/item/paper_bin{
+	pixel_y = 5
+	},
+/obj/item/pen,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"GZ" = (
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Hc" = (
+/obj/machinery/cryopod{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 9
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"He" = (
+/obj/effect/turf_decal/bot,
+/obj/structure/closet/emcloset,
+/turf/open/floor/mineral/titanium/blue,
+/area/centcom/interlink)
+"Hf" = (
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 4
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Hg" = (
+/obj/machinery/duct,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"Hi" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Hn" = (
+/obj/machinery/light/directional/north,
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink)
+"Hp" = (
+/obj/structure/table/reinforced,
+/obj/item/book/manual/wiki/security_space_law{
+	pixel_x = -3;
+	pixel_y = 5
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/obj/structure/window/reinforced/spawner/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Hq" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Hr" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Hv" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/warning{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Hy" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/obj/structure/table,
+/obj/item/storage/medkit/regular{
+	pixel_x = 8;
+	pixel_y = 10
+	},
+/obj/item/storage/medkit/regular{
+	pixel_y = 6
+	},
+/obj/machinery/light/cold/directional/south,
+/obj/effect/turf_decal/delivery/blue,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"HB" = (
+/obj/structure/window/reinforced/tinted/spawner/directional/south,
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"HD" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/machinery/button/door/directional/west{
+	id = "room5";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	pixel_y = -8;
+	specialfunctions = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"HE" = (
+/obj/structure/filingcabinet/employment,
+/obj/machinery/button/door/directional/south{
+	id = "centshuttersjolly"
+	},
+/obj/effect/turf_decal/bot_white,
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"HH" = (
+/obj/structure/table,
+/obj/machinery/computer/libraryconsole,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"HI" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/machinery/door/airlock/multi_tile/glass{
+	name = "Interlink Cafe"
+	},
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"HN" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp/green{
+	pixel_y = 6
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"HO" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/effect/light_emitter/interlink,
+/obj/structure/fence,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"HR" = (
+/obj/structure/window/reinforced/spawner/directional/north,
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"HS" = (
+/obj/structure/noticeboard/directional/south,
+/obj/structure/table/wood,
+/obj/item/phone{
+	pixel_y = -4
+	},
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"HX" = (
+/obj/structure/chair/sofa/corner/brown{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"HZ" = (
+/obj/machinery/duct,
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Ia" = (
+/obj/machinery/status_display/evac/directional/north,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Ic" = (
+/obj/machinery/light/warm/directional/west,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Ie" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"If" = (
+/obj/machinery/door/airlock/service{
+	name = "Interlink Bar"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/service/kitchen,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"In" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Iq" = (
+/obj/structure/sign/poster/random/directional/north,
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"It" = (
+/obj/structure/extinguisher_cabinet/directional/north,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"Iu" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/tree/jungle/small/style_5,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"IF" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/structure/statue/sandstone/venus{
+	name = "Order"
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"IH" = (
+/obj/machinery/door/poddoor/shutters/window/preopen,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"IQ" = (
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"IZ" = (
+/obj/structure/table/wood,
+/obj/item/folder/yellow,
+/obj/item/folder/blue{
+	pixel_y = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Jj" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/machinery/duct,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"Jk" = (
+/obj/structure/chair/sofa/bench/right,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"Jl" = (
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Jo" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/obj/structure/flora/bush/flowers_yw/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Jp" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Js" = (
+/turf/closed/indestructible/rock,
+/area/centcom/interlink)
+"Ju" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Jx" = (
+/obj/structure/table/wood,
+/obj/item/folder/red{
+	pixel_x = 12;
+	pixel_y = 2
+	},
+/obj/item/pen{
+	pixel_x = 6;
+	pixel_y = 10
+	},
+/turf/open/floor/carpet/executive,
+/area/centcom/interlink)
+"JC" = (
+/obj/structure/chair/office{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"JD" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"JH" = (
+/obj/structure/flora/biolumi/lamp/weaklight{
+	light_color = "#687487";
+	light_range = 7
+	},
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"JI" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"JP" = (
+/obj/structure/table/reinforced,
+/obj/item/folder{
+	pixel_y = 7
+	},
+/obj/item/folder/yellow{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"JT" = (
+/obj/machinery/computer/cryopod/directional/north,
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"JZ" = (
+/obj/machinery/vending/clothing,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Kb" = (
+/obj/machinery/door/airlock{
+	id_tag = "room2";
+	name = "Cabin"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Kc" = (
+/obj/structure/table/reinforced,
+/obj/machinery/reagentgrinder{
+	pixel_y = 8
+	},
+/obj/machinery/light/warm/directional/north,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Kh" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Km" = (
+/obj/machinery/computer/crew,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Kn" = (
+/obj/structure/chair/sofa/bench,
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ko" = (
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"Kq" = (
+/obj/structure/chair/office,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ks" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Kt" = (
+/obj/structure/chair/stool/bar/directional/west,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"Kx" = (
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/obj/machinery/light/very_dim/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"KC" = (
+/obj/machinery/button/door/directional/east{
+	id = "arr_hall_lookout";
+	name = "Lookout Shutters Control";
+	pixel_y = -8;
+	req_access = list("command")
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"KG" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/structure/flora/tree/jungle/small/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"KH" = (
+/obj/machinery/shower/directional/east,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"KR" = (
+/obj/machinery/stasis{
+	dir = 4
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"KT" = (
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/cup/glass/shaker{
+	pixel_x = -6;
+	pixel_y = 16
+	},
+/obj/item/book/manual/wiki/barman_recipes{
+	pixel_x = -4;
+	pixel_y = 2
+	},
+/obj/item/reagent_containers/cup/rag{
+	pixel_x = 9;
+	pixel_y = 3
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"KY" = (
+/obj/structure/table/reinforced,
+/obj/item/folder/blue,
+/obj/item/stamp/denied{
+	pixel_x = 10;
+	pixel_y = 10
+	},
+/obj/item/stamp{
+	pixel_x = 6;
+	pixel_y = 4
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"La" = (
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 8
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Lc" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Lf" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Li" = (
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Lj" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Interlink Evac Library"
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Ll" = (
+/obj/machinery/light/very_dim/directional/east,
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Lr" = (
+/obj/machinery/door/poddoor/ert,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Lt" = (
+/obj/structure/table/optable,
+/obj/item/storage/backpack/duffelbag/med/surgery,
+/obj/effect/turf_decal/bot_blue,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Lz" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/structure/hedge,
+/obj/effect/light_emitter/interlink,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"LC" = (
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"LH" = (
+/obj/structure/closet/secure_closet/personal/cabinet,
+/obj/item/condom_pack,
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"LJ" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"LL" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"LN" = (
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/structure/closet/secure_closet/freezer/empty{
+	name = "milk freezer"
+	},
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/soymilk,
+/obj/item/reagent_containers/condiment/soymilk,
+/obj/item/reagent_containers/cup/glass/bottle/juice/cream,
+/obj/item/reagent_containers/cup/glass/bottle/juice/cream,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"LO" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 4
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"LQ" = (
+/obj/machinery/chem_master/condimaster,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"LT" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"Md" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Me" = (
+/obj/machinery/sleeper{
+	dir = 1
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Mh" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/structure/hedge,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Mj" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/chair/sofa/bench/left{
+	greyscale_colors = "#AA8A61"
+	},
+/obj/item/toy/plush/lizard_plushie/green{
+	name = "Reads-The-Books"
+	},
+/obj/machinery/light/warm/directional/north,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Mk" = (
+/obj/structure/table,
+/obj/machinery/microwave{
+	pixel_x = -2;
+	pixel_y = 6
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Mw" = (
+/obj/structure/table/wood,
+/obj/effect/spawner/random/entertainment/deck{
+	pixel_y = 5
+	},
+/turf/open/floor/carpet/red,
+/area/centcom/interlink)
+"My" = (
+/obj/structure/closet/secure_closet/personal,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 6
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"MA" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/structure/flora/bush/flowers_br/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"MB" = (
+/obj/structure/sign/poster/random/directional/south,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"MC" = (
+/obj/structure/table,
+/obj/item/storage/fancy/donut_box{
+	pixel_x = 2;
+	pixel_y = 10
+	},
+/obj/item/storage/fancy/donut_box{
+	pixel_x = -4;
+	pixel_y = 3
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"MG" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/item/kirbyplants/random,
+/obj/machinery/button/door/directional/south{
+	id = "room4";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	pixel_x = -8;
+	specialfunctions = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"MJ" = (
+/obj/machinery/light/directional/west,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"MK" = (
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 8
+	},
+/obj/machinery/time_clock/directional/west,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"MO" = (
+/obj/structure/closet/secure_closet/personal/cabinet,
+/obj/item/condom_pack,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"MP" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/mineral/titanium,
+/area/centcom/interlink)
+"MS" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/window/brigdoor/left/directional/north{
+	req_access = list("cent_general")
+	},
+/obj/machinery/door/window/left/directional/south,
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"MU" = (
+/obj/structure/table/reinforced,
+/obj/machinery/recharger{
+	pixel_y = 5
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/obj/structure/window/reinforced/spawner/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"MV" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	dir = 4;
+	name = "Interlink Cafe"
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"MW" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/chair/stool/bar/directional/north,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"MY" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Nanotrasen Consultant's Office"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/cent_com/rep_door,
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Nd" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt,
+/obj/structure/flora/bush/flowers_br/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Nf" = (
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink/dorm_rooms)
+"Ng" = (
+/obj/effect/turf_decal/stripes/asteroid/line{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Nj" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"Nk" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/fence/interlink{
+	dir = 4
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Nl" = (
+/obj/item/pillow,
+/turf/open/floor/carpet/red,
+/area/centcom/interlink)
+"Nn" = (
+/obj/structure/table,
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"Np" = (
+/obj/machinery/door/airlock/medical{
+	name = "Interlink Medical Cold Room"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/medical/general,
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Nq" = (
+/obj/structure/rack,
+/obj/item/stack/sheet/mineral/wood,
+/obj/item/stack/sheet/mineral/wood,
+/obj/item/stack/sheet/mineral/wood,
+/obj/item/stack/sheet/mineral/wood,
+/obj/item/stack/sheet/mineral/wood,
+/obj/item/lighter,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Nu" = (
+/obj/structure/chair/sofa/bench/right,
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Nw" = (
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Nx" = (
+/obj/effect/spawner/random/vending/snackvend,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ny" = (
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Nz" = (
+/obj/structure/chair/sofa/bench/right{
+	greyscale_colors = "#AA8A61"
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"NB" = (
+/obj/structure/chair/sofa/bench/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"NE" = (
+/obj/effect/turf_decal/bot,
+/obj/structure/closet/emcloset,
+/turf/open/floor/mineral/titanium,
+/area/centcom/interlink)
+"NI" = (
+/obj/machinery/vending/dorms,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"NL" = (
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"NN" = (
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"NO" = (
+/obj/machinery/button/door/directional/east{
+	id = "evac_hall_lookout";
+	name = "Lookout Shutters Control";
+	pixel_y = -8;
+	req_access = list("command")
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"NR" = (
+/obj/machinery/door/airlock/hatch{
+	name = "Custodial Closet"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"NS" = (
+/obj/machinery/button/door/directional/east{
+	id = "interlink_hall2";
+	name = "Arrivals Hall Shutter Control";
+	pixel_y = -8;
+	req_access = list("security")
+	},
+/obj/structure/closet/crate/bin,
+/obj/item/paper/fluff/junkmail_generic{
+	pixel_x = 7;
+	pixel_y = 5
+	},
+/obj/item/paper/fluff/junkmail_redpill/true,
+/obj/item/paper/fluff/junkmail_redpill{
+	pixel_x = 1;
+	pixel_y = 8
+	},
+/obj/item/paper/fluff/jobs/prisoner/letter,
+/obj/item/paper/fluff/jobs/security/court_judgement{
+	pixel_x = -5;
+	pixel_y = 1
+	},
+/obj/machinery/light/cold/directional/east,
+/obj/machinery/button/door/directional/east{
+	id = "arriv_hall";
+	name = "Arrivals Access Shutter Control";
+	pixel_y = 8;
+	req_access = list("security")
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"NT" = (
+/obj/machinery/light/warm/directional/south,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"NW" = (
+/obj/machinery/duct,
+/obj/effect/turf_decal/trimline/dark_green/filled/line,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"NX" = (
+/obj/structure/chair/sofa/bench{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"NY" = (
+/obj/structure/sign/directions/security{
+	dir = 8;
+	pixel_y = -8
+	},
+/obj/structure/sign/directions/medical{
+	dir = 8
+	},
+/obj/structure/sign/directions/arrival{
+	dir = 1;
+	pixel_y = 8
+	},
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink)
+"Oa" = (
+/obj/machinery/light/directional/east,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Of" = (
+/obj/structure/table/wood,
+/obj/machinery/recharger,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Oi" = (
+/obj/machinery/status_display/shuttle{
+	pixel_y = -32;
+	shuttle_id = "arrivals_shuttle"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Oj" = (
+/obj/machinery/door/airlock{
+	id_tag = "stall2";
+	name = "Stall"
+	},
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Ok" = (
+/obj/machinery/door/poddoor/shutters/window/indestructible{
+	id = "interlink_hall2";
+	name = "Windowed Interlink Access Shutters"
+	},
+/obj/effect/turf_decal/caution/stand_clear,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Om" = (
+/obj/machinery/light/very_dim/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"On" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/structure/statue/sandstone/venus{
+	dir = 1;
+	name = "Law"
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Ou" = (
+/obj/structure/chair/sofa/corp/left{
+	dir = 4
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"Oz" = (
+/obj/machinery/light/directional/north,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"OB" = (
+/obj/structure/fence/end{
+	dir = 4
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"OD" = (
+/obj/machinery/door/airlock/freezer{
+	name = "Freezer"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/service/kitchen,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"OF" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/tree/jungle/small,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"OG" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/obj/effect/turf_decal/siding/white/corner,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"OK" = (
+/obj/structure/table,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"OP" = (
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/obj/item/coffee_cartridge/decaf{
+	pixel_y = 10
+	},
+/obj/item/coffee_cartridge/decaf{
+	pixel_y = 6
+	},
+/obj/item/coffee_cartridge/fancy,
+/obj/machinery/status_display/shuttle{
+	pixel_y = 32;
+	shuttle_id = "arrivals_shuttle"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"OS" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 10
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"OT" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/structure/bookcase/random/religion,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"OU" = (
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"OV" = (
+/obj/structure/chair/sofa/corp/left{
+	dir = 1
+	},
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"Pa" = (
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Ph" = (
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"Pl" = (
+/obj/machinery/button/door/directional/west{
+	id = "interlink_hall2";
+	name = "Arrivals Hall Shutter Control";
+	pixel_y = -8;
+	req_access = list("security")
+	},
+/obj/machinery/light/cold/directional/west,
+/obj/machinery/button/door/directional/west{
+	id = "arriv_hall";
+	name = "Arrivals Access Shutter Control";
+	pixel_y = 8;
+	req_access = list("security")
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Pn" = (
+/obj/structure/flora/bush/flowers_pp/style_random,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Po" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Pp" = (
+/obj/machinery/vending/autodrobe/all_access,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Pr" = (
+/obj/structure/chair/office,
+/turf/open/floor/iron/grimy,
+/area/centcom/interlink)
+"Pt" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Administrative Offices"
+	},
+/obj/effect/turf_decal/trimline/dark_green/corner,
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "arr_hall_lookout";
+	name = "Interlink Access Shutters"
+	},
+/obj/effect/mapping_helpers/airlock/cutaiwire,
+/obj/effect/mapping_helpers/airlock/access/any/cent_com/rep_or_captain,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Pw" = (
+/obj/machinery/light/directional/west,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Px" = (
+/obj/effect/turf_decal/arrows/red{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Py" = (
+/obj/structure/table/wood,
+/obj/item/folder/yellow{
+	pixel_x = 3;
+	pixel_y = 7
+	},
+/obj/item/folder/blue{
+	pixel_x = -9;
+	pixel_y = -2
+	},
+/obj/item/pen/blue{
+	pixel_x = 3;
+	pixel_y = 4
+	},
+/turf/open/floor/carpet/executive,
+/area/centcom/interlink)
+"PA" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"PF" = (
+/obj/structure/chair/sofa/bench/left,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"PH" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/warning{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"PK" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw,
+/obj/effect/turf_decal/siding/white{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"PL" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	name = "Interlink Cafe"
+	},
+/obj/effect/turf_decal/siding/wood,
+/obj/machinery/duct,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"PO" = (
+/obj/structure/chair/sofa/bench/right,
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"PQ" = (
+/obj/structure/reagent_dispensers/cooking_oil,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"PX" = (
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"Qb" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "bs_shutters";
+	name = "BlueShields Shutters"
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Qc" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Qf" = (
+/obj/item/kirbyplants/organic/plant22,
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"Qj" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/effect/turf_decal/caution{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Qk" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/structure/hedge,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Qo" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 5
+	},
+/obj/structure/flora/bush/flowers_br/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Qq" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Interlink Shuttle"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Qs" = (
+/turf/open/floor/iron/grimy,
+/area/centcom/interlink)
+"Qt" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"QM" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"QT" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Interlink Cryogenics"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"QU" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"QV" = (
+/obj/machinery/light/cold/directional/west,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"QX" = (
+/obj/structure/chair/sofa/bench/left,
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"QZ" = (
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Rd" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/obj/machinery/door/window/brigdoor/left/directional/west{
+	name = "Interlink Wardens Desk";
+	req_access = list("armory")
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Rg" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Rk" = (
+/obj/machinery/computer/records/security{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ro" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Rp" = (
+/obj/structure/closet,
+/obj/item/clothing/under/rank/centcom/intern,
+/obj/item/banner/command/mundane,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/bot,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/item/toner/extreme,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Rs" = (
+/obj/machinery/door/airlock/external/glass,
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Ru" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/fence/corner,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"RE" = (
+/obj/structure/chair/comfy/black{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"RF" = (
+/obj/machinery/status_display/evac/directional/south,
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"RL" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"RO" = (
+/obj/machinery/door/airlock/medical{
+	name = "Interlink Operating Room"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/medical/general,
+/obj/machinery/duct,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"RQ" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"RU" = (
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/carpet/red,
+/area/centcom/interlink)
+"RX" = (
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Sa" = (
+/obj/machinery/recharge_station,
+/obj/machinery/button/door/directional/south{
+	id = "stall3";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	specialfunctions = 4
+	},
+/obj/machinery/light/small/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Sb" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/window/brigdoor/left/directional/north{
+	name = "Interlink Customs";
+	req_access = list("cent_general")
+	},
+/obj/machinery/door/window/left/directional/south,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Sc" = (
+/turf/closed/indestructible/fakedoor{
+	desc = "Why would you want to go back, you just got here!";
+	name = "ERT Bay"
+	},
+/area/centcom/interlink)
+"Sf" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Sh" = (
+/obj/effect/spawner/random/vending/snackvend,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Si" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	dir = 4;
+	name = "Interlink Aux Garden"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Sl" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Sn" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Interlink"
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Sr" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Sv" = (
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Sw" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Sx" = (
+/obj/machinery/photocopier,
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/bot,
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"SB" = (
+/obj/machinery/door/airlock/hatch{
+	name = "Custodial Closet"
+	},
+/obj/machinery/duct,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"SC" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"SG" = (
+/turf/closed/indestructible/fakedoor{
+	desc = "Why would you want to go back, you just got here!";
+	name = "Interlink Re-Education Room"
+	},
+/area/centcom/interlink)
+"SQ" = (
+/obj/item/toy/plush/moth{
+	name = "Buzz Buzz"
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"SV" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/machinery/door/poddoor/shutters/window/indestructible{
+	id = "arriv_hall";
+	name = "Windowed Interlink Access Shutters"
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"SW" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/structure/bookcase/random/religion,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"SX" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Td" = (
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Tf" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"Tg" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"Tk" = (
+/obj/machinery/cryopod{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Tl" = (
+/obj/machinery/door/window/brigdoor/left/directional/south{
+	name = "Interlink Cell";
+	req_access = list("brig")
+	},
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron/smooth,
+/area/centcom/interlink)
+"Tn" = (
+/obj/machinery/light/warm/directional/south,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Ty" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 5
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Tz" = (
+/obj/machinery/duct,
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 4
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"TH" = (
+/obj/machinery/light/directional/south,
+/obj/machinery/status_display/shuttle{
+	pixel_y = -32;
+	shuttle_id = "arrivals_shuttle"
+	},
+/obj/effect/turf_decal/trimline/blue/filled/line,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"TK" = (
+/obj/item/kirbyplants/random,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"TO" = (
+/obj/structure/reagent_dispensers/plumbed,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"TQ" = (
+/obj/machinery/duct,
+/obj/structure/sign/poster/random/directional/south,
+/obj/effect/turf_decal/trimline/dark_green/filled/line,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"TR" = (
+/obj/effect/turf_decal/trimline/dark_green/line,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"TU" = (
+/obj/structure/table,
+/obj/item/storage/medkit/regular{
+	pixel_x = 8;
+	pixel_y = 10
+	},
+/obj/item/storage/medkit/regular{
+	pixel_y = 6
+	},
+/obj/effect/turf_decal/delivery/blue,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"TV" = (
+/obj/structure/closet/secure_closet/personal,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"TW" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw,
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"TX" = (
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks,
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"TZ" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Ub" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/item/kirbyplants/random,
+/obj/machinery/button/door/directional/south{
+	id = "room3";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	pixel_x = -8;
+	specialfunctions = 4
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"Ud" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/chair/sofa/left/brown,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"Ue" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Uf" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "ntrep_shutters";
+	name = "Nanotrasen Consultant's Shutters"
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Ug" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Interlink Security Checkpoint"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/security/general,
+/obj/effect/turf_decal/delivery/white,
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"Ui" = (
+/obj/structure/curtain,
+/obj/effect/turf_decal/siding/white,
+/obj/machinery/duct,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"Un" = (
+/obj/structure/railing/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ut" = (
+/obj/item/modular_computer/pda/clear,
+/obj/effect/turf_decal/stripes/asteroid/line{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"UE" = (
+/obj/structure/sink/directional/south,
+/obj/structure/mirror/directional/north,
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"UH" = (
+/obj/effect/spawner/random/vending/colavend,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"UJ" = (
+/obj/structure/chair/sofa/bench,
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"UN" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/window/brigdoor/left/directional/south{
+	req_access = list("cent_general")
+	},
+/obj/machinery/door/window/left/directional/north,
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"UV" = (
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"UX" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Va" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/skyrat_decals/misc/handicapped,
+/turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"Vf" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	dir = 8;
+	name = "Interlink Longue"
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"Vk" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Vl" = (
+/obj/structure/table,
+/obj/item/paper/pamphlet/centcom/visitor_info{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/paper/pamphlet/centcom/visitor_info,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 10
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Vm" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	dir = 4;
+	name = "Interlink Locker Room"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Vp" = (
+/obj/machinery/light/directional/north,
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Vu" = (
+/obj/machinery/shower/directional/west,
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"Vw" = (
+/obj/effect/turf_decal/caution{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Vz" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 1
+	},
+/obj/effect/light_emitter/interlink,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"VA" = (
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 5
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"VB" = (
+/obj/machinery/light/cold/directional/south,
+/obj/machinery/duct,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"VD" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/line,
+/obj/effect/turf_decal/siding/white,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"VE" = (
+/obj/machinery/door/airlock/security/glass{
+	name = "Interlink Security Post"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/security/general,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"VH" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"VS" = (
+/obj/structure/flora/bush/flowers_yw/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"VT" = (
+/obj/structure/table,
+/obj/item/storage/medkit/o2{
+	pixel_x = 8;
+	pixel_y = 10
+	},
+/obj/item/storage/medkit/toxin{
+	pixel_y = 6
+	},
+/obj/effect/turf_decal/delivery/blue,
+/obj/effect/turf_decal/trimline/blue/filled/corner,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"VU" = (
+/obj/effect/turf_decal/loading_area{
+	dir = 8
+	},
+/turf/open/floor/mineral/titanium/blue,
+/area/centcom/interlink)
+"VW" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/obj/effect/turf_decal/arrows,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"VX" = (
+/obj/docking_port/stationary{
+	dir = 2;
+	dwidth = 25;
+	height = 50;
+	json_key = "emergency";
+	name = "CentCom Emergency Shuttle Dock";
+	shuttle_id = "emergency_away";
+	width = 50
+	},
+/turf/open/space/basic,
+/area/space)
+"Wb" = (
+/obj/machinery/newscaster/directional/west,
+/obj/structure/table/reinforced,
+/obj/machinery/button/door/directional/north{
+	id = "centshutterstop"
+	},
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/turf/open/floor/iron/dark/textured_large,
+/area/centcom/interlink)
+"Wh" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"Wk" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 4
+	},
+/obj/machinery/light/warm/directional/north,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"Wl" = (
+/obj/effect/light_emitter/interlink,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"Wo" = (
+/obj/structure/chair/sofa/corp/left,
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"Wq" = (
+/obj/structure/flora/bush/flowers_pp/style_random,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"Wt" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Wy" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/filled/arrow_cw{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Wz" = (
+/obj/effect/turf_decal/tile/dark_blue/opposingcorners,
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"WA" = (
+/obj/machinery/light/directional/north,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"WG" = (
+/obj/machinery/door/airlock{
+	id_tag = "room3";
+	name = "Cabin"
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"WJ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"WM" = (
+/obj/structure/fence/corner,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"WP" = (
+/obj/effect/light_emitter/interlink,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"WQ" = (
+/obj/machinery/light/cold/directional/east,
+/obj/machinery/duct,
+/turf/open/floor/iron/freezer,
+/area/centcom/interlink)
+"WW" = (
+/obj/structure/window/reinforced/spawner/directional/north,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"WZ" = (
+/obj/structure/sign/poster/random/directional/west,
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Xa" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Xd" = (
+/obj/machinery/door/airlock/centcom{
+	name = "Blueshield's Office"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/command/captain,
+/obj/effect/turf_decal/siding/white,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Xf" = (
+/obj/machinery/light/directional/east,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Xg" = (
+/obj/structure/fireplace,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Xj" = (
+/obj/structure/sink/directional/east,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Xp" = (
+/obj/machinery/door/poddoor/ert,
+/obj/effect/turf_decal/stripes/asteroid/line{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Xr" = (
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/obj/item/reagent_containers/condiment/sugar{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/condiment/sugar{
+	pixel_y = 4
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Xv" = (
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"Xw" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white,
+/obj/structure/chair/sofa/bench,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Xy" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/obj/structure/closet/secure_closet/personal,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Xz" = (
+/obj/machinery/shower/directional/south,
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/obj/structure/window/spawner/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"XA" = (
+/obj/machinery/computer/security,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"XD" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 1;
+	greyscale_colors = "#AA8A61"
+	},
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"XJ" = (
+/obj/effect/turf_decal/arrows/blue{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"XK" = (
+/obj/structure/toilet{
+	dir = 1
+	},
+/obj/machinery/button/door/directional/south{
+	id = "stall1";
+	name = "Door Lock";
+	normaldoorcontrol = 1;
+	specialfunctions = 4
+	},
+/obj/machinery/light/small/directional/west,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"XP" = (
+/obj/structure/chair/sofa/bench/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/white/corner,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"XU" = (
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"XX" = (
+/obj/effect/turf_decal/arrows{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"XY" = (
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ye" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "evac_hall_lookout";
+	name = "Interlink Access Shutters"
+	},
+/turf/open/floor/plating,
+/area/centcom/interlink)
+"Yl" = (
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Ym" = (
+/obj/effect/turf_decal/caution,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Yo" = (
+/obj/structure/bed/double,
+/obj/item/bedsheet/random/double,
+/turf/open/floor/wood,
+/area/centcom/interlink/dorm_rooms)
+"Yq" = (
+/obj/structure/table,
+/obj/machinery/microwave{
+	pixel_x = -2;
+	pixel_y = 7
+	},
+/turf/open/floor/iron/cafeteria,
+/area/centcom/interlink)
+"Yr" = (
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/arrows{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Yt" = (
+/obj/item/pickaxe,
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
+"Yy" = (
+/obj/structure/closet/crate/bin,
+/obj/item/paper/crumpled{
+	pixel_x = 7;
+	pixel_y = 6
+	},
+/obj/item/paper/crumpled{
+	pixel_x = -2;
+	pixel_y = -4
+	},
+/obj/item/paper/crumpled,
+/obj/effect/turf_decal/tile/green/opposingcorners,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"YB" = (
+/obj/structure/chair/sofa/corp/left,
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood,
+/area/centcom/interlink)
+"YD" = (
+/obj/effect/turf_decal/trimline/blue/filled/warning,
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"YF" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp/green{
+	pixel_y = 6
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"YG" = (
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"YK" = (
+/obj/effect/landmark/latejoin,
+/obj/effect/turf_decal/trimline/blue/filled/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/white/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/white,
+/area/centcom/interlink)
+"YS" = (
+/obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw,
+/obj/effect/turf_decal/trimline/green/filled/arrow_cw{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/white{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"YU" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/obj/effect/turf_decal/arrows{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"YV" = (
+/obj/item/kirbyplants/random,
+/obj/effect/turf_decal/trimline/dark_green/filled/line{
+	dir = 10
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Zb" = (
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"Zn" = (
+/obj/structure/table/wood,
+/obj/item/folder{
+	pixel_x = -7;
+	pixel_y = 5
+	},
+/obj/item/pen/fountain{
+	pixel_x = 3
+	},
+/turf/open/floor/carpet/executive,
+/area/centcom/interlink)
+"Zr" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/obj/effect/turf_decal/trimline/green/filled/arrow_ccw,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Zs" = (
+/obj/machinery/light/directional/south,
+/obj/effect/turf_decal/tile/red/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"Zw" = (
+/obj/structure/mop_bucket,
+/obj/machinery/duct,
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ZE" = (
+/obj/structure/window/reinforced/tinted/spawner/directional/west,
+/obj/machinery/shower/directional/south,
+/turf/open/floor/iron/white,
+/area/centcom/interlink/dorm_rooms)
+"ZJ" = (
+/obj/machinery/light/directional/west,
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"ZK" = (
+/obj/structure/sign/directions/evac{
+	pixel_y = -8
+	},
+/obj/structure/sign/directions/arrival{
+	dir = 1
+	},
+/obj/structure/sign/directions/dorms{
+	dir = 4;
+	pixel_y = 8
+	},
+/turf/closed/indestructible/riveted,
+/area/centcom/interlink)
+"ZM" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"ZP" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/flora/tree/jungle/style_6,
+/turf/open/floor/grass,
+/area/centcom/interlink)
+"ZX" = (
+/obj/effect/turf_decal/siding/white{
+	dir = 8
+	},
+/obj/structure/chair/stool/bar/directional/east,
+/turf/open/floor/iron,
+/area/centcom/interlink)
+"ZZ" = (
+/obj/structure/chair/sofa/bench/right{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+
+(1,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+"}
+(2,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Js
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+"}
+(3,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+sD
+sD
+sD
+sD
+sD
+vr
+rL
+Qc
+sD
+sD
+sD
+sD
+Kh
+sD
+sD
+sD
+sD
+QZ
+sD
+ml
+zx
+zQ
+iE
+fJ
+sR
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+ns
+Aj
+Aj
+Aj
+Aj
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+"}
+(4,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+sD
+sD
+sD
+QZ
+gz
+sD
+rL
+sD
+QZ
+sD
+sD
+aR
+aR
+sD
+sD
+pb
+vr
+sD
+gz
+ml
+zx
+NL
+NL
+NL
+NL
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+SG
+LT
+Fo
+cl
+Tl
+ex
+yG
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+"}
+(5,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+gz
+sD
+Pn
+sD
+sD
+sD
+rL
+RU
+RU
+sD
+cQ
+Wl
+Wl
+qx
+sD
+sD
+sD
+DD
+Aj
+Aj
+zx
+NL
+Cs
+EJ
+Xy
+Aj
+zh
+FV
+Aj
+AC
+iQ
+KH
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Jk
+sT
+cl
+yU
+ex
+BE
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+"}
+(6,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+sD
+sD
+sD
+sD
+tl
+sD
+rL
+ia
+RU
+sD
+cQ
+Wl
+Wl
+qx
+om
+sD
+sD
+aR
+ml
+Pp
+DG
+tf
+Xy
+GD
+TV
+Aj
+zh
+rc
+Ui
+Hg
+WQ
+GI
+Aj
+Ju
+Ic
+Wt
+Wt
+Wt
+Ic
+of
+Aj
+Ep
+sT
+gl
+Aj
+yU
+yU
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+"}
+(7,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+sD
+sD
+sD
+sD
+sD
+DD
+rL
+RU
+RU
+gz
+cQ
+Wl
+Wl
+qx
+sD
+sD
+mO
+dO
+ml
+JZ
+Lf
+ex
+TV
+na
+TV
+Aj
+zh
+rc
+Aj
+Aj
+Aj
+Aj
+Aj
+Ia
+kx
+GE
+GE
+GE
+Gf
+gy
+Aj
+Ep
+sT
+cl
+yU
+ex
+BE
+Aj
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+iB
+iB
+"}
+(8,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+sD
+sD
+sD
+sD
+sD
+sD
+rL
+DD
+sD
+sD
+cQ
+Wl
+Wl
+Ty
+uO
+aR
+cR
+Dd
+ml
+jO
+Lf
+ex
+TV
+na
+TV
+Aj
+GZ
+rc
+Ci
+XK
+Aj
+Sx
+ih
+CF
+Wh
+BF
+Jx
+zu
+Ue
+Sl
+Aj
+PF
+sT
+cl
+BN
+ex
+nk
+Aj
+iB
+iB
+iB
+iB
+iB
+Aj
+lb
+JD
+Bc
+gN
+Aj
+Aj
+iB
+"}
+(9,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+sD
+QZ
+sD
+sD
+sD
+sD
+rL
+sD
+sD
+sD
+cQ
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Dd
+ml
+ZX
+dB
+ex
+ex
+ex
+MB
+Aj
+GZ
+VB
+Aj
+Aj
+Hn
+NL
+NL
+zM
+Wh
+BF
+Zn
+zu
+Ue
+Of
+Aj
+Ko
+cE
+gl
+Aj
+yU
+yU
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+YB
+cU
+cU
+cU
+wL
+Aj
+iB
+"}
+(10,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+sD
+sD
+Qc
+sD
+sD
+sD
+rL
+sD
+ij
+sD
+cQ
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Dd
+ml
+hk
+ex
+ex
+Oa
+ex
+ex
+Aj
+GZ
+rc
+Oj
+Dm
+Aj
+Xg
+NL
+zM
+Wh
+BF
+vl
+zu
+Ue
+HS
+Aj
+cl
+cl
+cl
+RX
+Cz
+Mk
+Aj
+GZ
+YD
+Np
+zZ
+ri
+Aj
+fN
+cU
+Nl
+cU
+cA
+Aj
+iB
+"}
+(11,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+Aj
+Aj
+Js
+sD
+tl
+sD
+sD
+gz
+QZ
+rL
+sD
+sD
+sD
+cQ
+Wl
+Wl
+In
+Md
+Md
+OS
+Dd
+ml
+CK
+ex
+Oi
+Aj
+ex
+Vm
+Aj
+BX
+rc
+Aj
+Aj
+Aj
+NL
+NL
+zM
+Wh
+BF
+sr
+zu
+Ue
+GU
+Aj
+Qf
+cl
+cl
+RX
+Cz
+MC
+Aj
+wI
+HZ
+Aj
+Cn
+BL
+Aj
+Wh
+cU
+cU
+cU
+wL
+Aj
+iB
+"}
+(12,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+Js
+Js
+Js
+sD
+sD
+sD
+sD
+sD
+sD
+WM
+OB
+sD
+sD
+cQ
+Wl
+Wl
+qx
+QZ
+sD
+cQ
+Vz
+ml
+ex
+ex
+ex
+kQ
+PH
+it
+Aj
+ra
+rc
+gG
+Sa
+Aj
+Nq
+uM
+Ks
+Wh
+BF
+Py
+zu
+Ue
+Sl
+Aj
+MU
+Rd
+Hp
+HR
+Cz
+Zs
+Aj
+bf
+rc
+Aj
+Aj
+Aj
+Aj
+Al
+Aj
+Aj
+Aj
+Aj
+Aj
+iB
+"}
+(13,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+Js
+sD
+sD
+sD
+sD
+sD
+DD
+sD
+sD
+sD
+rL
+sD
+sD
+JI
+Wl
+Wl
+pD
+Qc
+sD
+sD
+Nw
+ml
+ex
+ex
+ex
+ex
+qG
+lU
+Aj
+BX
+VB
+Aj
+Aj
+Aj
+Aj
+Aj
+Ia
+CV
+Ro
+Ro
+Ro
+hW
+gy
+Aj
+qH
+JC
+Cz
+WW
+Cz
+Cz
+Aj
+xj
+rc
+Aj
+Lt
+pJ
+Aj
+wU
+zc
+zc
+eO
+wU
+Aj
+iB
+"}
+(14,1,1) = {"
+iB
+iB
+Aj
+Aj
+Aj
+Js
+sD
+sD
+ij
+sD
+QZ
+sD
+sD
+DD
+sD
+rL
+sD
+sD
+cQ
+Wl
+Wl
+Ty
+aR
+aR
+aR
+aR
+Aj
+bF
+Aj
+Aj
+Aj
+oo
+oK
+EF
+rc
+tk
+GZ
+NI
+Aj
+qc
+Aj
+SW
+Ge
+Wz
+Wz
+Wz
+OT
+wP
+Aj
+Km
+Cz
+Cz
+rD
+Cz
+Cz
+Aj
+VT
+Tz
+Aj
+Hf
+zP
+Aj
+tW
+wU
+wU
+wU
+wU
+Aj
+iB
+"}
+(15,1,1) = {"
+iB
+iB
+Aj
+Js
+Js
+Js
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+rL
+sD
+pb
+cQ
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+nm
+qG
+TQ
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+tb
+ph
+xX
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+aY
+Aj
+yU
+RO
+Aj
+ur
+Aj
+Aj
+iJ
+eO
+eo
+Fz
+Tn
+Aj
+iB
+"}
+(16,1,1) = {"
+iB
+iB
+Aj
+Js
+sD
+sD
+DD
+sD
+sD
+sD
+sD
+sD
+sD
+gz
+sD
+rL
+sD
+sD
+cQ
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Wl
+Lf
+qG
+NW
+Aj
+TO
+TO
+Aj
+XA
+wU
+fA
+AP
+zq
+Aj
+yU
+BZ
+yU
+Aj
+qW
+AP
+fA
+wU
+eW
+Aj
+aW
+Sw
+gA
+Ft
+uR
+QV
+La
+xe
+Aj
+wU
+wU
+wU
+wU
+Gi
+Aj
+iB
+"}
+(17,1,1) = {"
+iB
+iB
+Aj
+Js
+sD
+sD
+tl
+sD
+sD
+sD
+sD
+Aj
+yU
+yU
+yU
+Aj
+sD
+sD
+DD
+Md
+Md
+Md
+Md
+Aj
+Aj
+Aj
+Aj
+kW
+Aj
+Aj
+Aj
+oo
+uC
+Aj
+Zw
+ik
+Aj
+jF
+wU
+wU
+yZ
+IZ
+Qb
+rj
+NL
+ve
+Uf
+IZ
+RE
+wU
+wU
+Rp
+Aj
+NL
+Sw
+Aj
+xJ
+rc
+GZ
+GZ
+Me
+Aj
+Nz
+wU
+wU
+wU
+XD
+Aj
+iB
+"}
+(18,1,1) = {"
+Aj
+Aj
+Aj
+Js
+sD
+vr
+sD
+sD
+sD
+sD
+sD
+Aj
+Hc
+Tk
+cZ
+Aj
+Aj
+Aj
+sD
+sD
+gz
+pb
+DD
+Aj
+qE
+Xj
+jT
+Jj
+GH
+ev
+ml
+DF
+NW
+Aj
+fZ
+ik
+Aj
+bz
+wU
+pM
+vM
+uV
+Qb
+TR
+NL
+Fv
+Uf
+EZ
+wq
+qe
+wU
+nj
+Aj
+dQ
+Sw
+Aj
+KR
+rc
+GZ
+GZ
+Me
+Aj
+Mj
+GE
+GE
+GE
+hd
+Aj
+iB
+"}
+(19,1,1) = {"
+Aj
+Js
+Js
+Js
+sD
+sD
+sD
+sD
+QZ
+gz
+sD
+Aj
+JT
+Ny
+nG
+MK
+CW
+yU
+sD
+sD
+sD
+sD
+sD
+Aj
+sl
+ex
+Xr
+Jj
+kR
+te
+ml
+DF
+NW
+Aj
+po
+ik
+Aj
+du
+sn
+sn
+GG
+cO
+Qb
+TR
+NL
+Fv
+Uf
+cO
+GG
+sn
+sn
+vO
+Aj
+NL
+Sw
+Aj
+Xz
+jr
+tf
+tf
+Hy
+Aj
+HH
+hK
+ex
+vx
+aK
+Aj
+iB
+"}
+(20,1,1) = {"
+Aj
+Js
+sD
+Ru
+DB
+HO
+DB
+DB
+DB
+DB
+DB
+Aj
+Oz
+GZ
+GZ
+GZ
+BP
+yU
+sD
+sD
+Aj
+Aj
+Aj
+Aj
+OP
+ex
+CZ
+Jj
+mP
+mP
+PL
+Gx
+oK
+SB
+ik
+ik
+Aj
+UV
+bp
+Li
+Li
+Li
+Xd
+TR
+NL
+Fv
+MY
+Li
+Li
+Li
+bp
+Yy
+Aj
+NL
+Sw
+Aj
+ng
+eK
+ex
+ex
+TU
+Aj
+HH
+hK
+ex
+vx
+aK
+Aj
+iB
+"}
+(21,1,1) = {"
+Aj
+Js
+sD
+sD
+Wq
+sD
+sD
+sD
+sD
+DD
+sD
+yU
+Sv
+GZ
+GZ
+GZ
+TH
+Aj
+Aj
+Aj
+Aj
+jN
+ho
+Aj
+LN
+uH
+fz
+mt
+sU
+sU
+Tf
+qG
+lU
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+md
+Qb
+Qb
+Aj
+CP
+NL
+RF
+Aj
+Uf
+Uf
+vT
+Aj
+Aj
+Gn
+NL
+Sw
+Gn
+Aj
+sw
+ow
+yU
+yU
+Aj
+ml
+ml
+Lj
+ml
+ml
+Aj
+iB
+"}
+(22,1,1) = {"
+Aj
+Js
+QZ
+sD
+sD
+sD
+sD
+sD
+sD
+vm
+sD
+yU
+Nu
+Gl
+eG
+eG
+dU
+YK
+dD
+yU
+CL
+NL
+ca
+Aj
+rB
+Qt
+Qt
+dJ
+kR
+ev
+ml
+DF
+pp
+Pt
+pg
+pg
+eq
+pg
+pg
+pg
+pg
+pg
+eq
+YG
+NL
+nC
+eq
+pg
+pg
+pg
+qi
+Fd
+NL
+NL
+Sw
+Kx
+nv
+GC
+NL
+NL
+NL
+Om
+NL
+ny
+up
+ny
+NL
+dV
+iB
+"}
+(23,1,1) = {"
+Aj
+Js
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+yU
+za
+DI
+ex
+ex
+ex
+VA
+My
+yU
+UH
+NL
+ca
+Aj
+kR
+jq
+sU
+sU
+kR
+te
+ml
+DF
+lU
+hD
+NL
+KC
+NL
+NL
+NL
+NL
+NL
+El
+NL
+NL
+NL
+NL
+NL
+El
+NL
+NO
+NL
+Ye
+NL
+NL
+Sw
+lL
+hC
+Ej
+Wy
+oW
+aJ
+aJ
+Wy
+lV
+ce
+lV
+XJ
+dV
+iB
+"}
+(24,1,1) = {"
+Aj
+Js
+sD
+sD
+sD
+sD
+pV
+dT
+dT
+dT
+dT
+Aj
+Aj
+Aj
+ml
+QT
+ml
+Aj
+Aj
+Aj
+Sh
+NL
+ca
+Aj
+Aj
+ml
+BH
+MV
+ml
+ml
+yp
+DF
+lU
+ZK
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+yU
+yU
+de
+yU
+yU
+Aj
+Aj
+Aj
+Aj
+dZ
+rV
+NL
+fb
+ln
+ex
+ex
+sa
+PO
+ex
+ex
+aa
+ni
+up
+NL
+NL
+dV
+iB
+"}
+(25,1,1) = {"
+Aj
+Js
+sD
+gz
+sD
+sD
+TZ
+pl
+pl
+pl
+pl
+yU
+NL
+zQ
+Lf
+ex
+ex
+MJ
+Aj
+YF
+tv
+WJ
+WJ
+hV
+ml
+jl
+dx
+dx
+iH
+iH
+qV
+jW
+CH
+gS
+Hq
+qo
+em
+ZJ
+SV
+NL
+Qj
+Ok
+Ym
+ex
+ex
+ex
+Vw
+eZ
+ef
+NL
+ib
+zQ
+NL
+OG
+YS
+oZ
+oZ
+oZ
+NX
+Xw
+oZ
+oZ
+oZ
+Yl
+Fh
+qt
+XX
+dV
+iB
+"}
+(26,1,1) = {"
+Aj
+Js
+sD
+sD
+sD
+sD
+TZ
+pl
+pl
+pl
+pl
+Rs
+LC
+Co
+uh
+uZ
+XU
+ex
+Aj
+wn
+cU
+cU
+cU
+Dx
+ml
+QX
+tX
+vL
+ex
+ex
+ex
+ex
+ex
+ex
+ex
+ex
+VD
+NL
+SV
+NL
+Qj
+Ok
+Ym
+ex
+ex
+ex
+Vw
+eZ
+ef
+NL
+ib
+NL
+NL
+AX
+cx
+ex
+ex
+ex
+lD
+Kn
+ex
+ex
+ex
+ex
+Hr
+NL
+NL
+dV
+iB
+"}
+(27,1,1) = {"
+Aj
+Js
+sD
+sD
+sD
+vr
+TZ
+pl
+pl
+pl
+pl
+yU
+px
+NL
+tG
+tR
+wR
+ex
+Aj
+pw
+Cm
+cU
+cU
+dW
+Aj
+ml
+ml
+hJ
+ex
+ex
+ex
+ex
+ex
+ex
+ex
+ex
+VD
+EP
+ls
+GP
+nM
+DN
+Aj
+yU
+us
+yU
+Aj
+DN
+Vp
+EP
+nN
+GP
+NL
+AX
+cx
+ex
+ex
+fB
+lD
+Kn
+fB
+ex
+ex
+ex
+Hr
+NL
+NL
+dV
+iB
+"}
+(28,1,1) = {"
+Aj
+Js
+sD
+sD
+QZ
+sD
+TZ
+pl
+pl
+pl
+pl
+yU
+px
+NL
+Lf
+ex
+ex
+ex
+Aj
+pw
+Mw
+cU
+cU
+mt
+FT
+HX
+ml
+vo
+bH
+TK
+vL
+ex
+ex
+ex
+ex
+ex
+VD
+EP
+jc
+GP
+Lf
+Aj
+Pl
+Cz
+Cz
+Cz
+vn
+Sb
+NN
+EP
+cB
+GP
+NL
+mJ
+uc
+dc
+dc
+dc
+hf
+cs
+dc
+dc
+dc
+BY
+SX
+NL
+NL
+dV
+iB
+"}
+(29,1,1) = {"
+Aj
+Js
+sD
+sD
+sD
+sD
+TZ
+pl
+pl
+pl
+pl
+Aj
+nD
+NL
+vI
+uZ
+jy
+ex
+Aj
+xr
+Cm
+cU
+cU
+mt
+ig
+te
+Aj
+ml
+ml
+Aj
+DF
+ex
+ex
+ae
+uZ
+fp
+gv
+NL
+SV
+NL
+Lf
+yU
+uD
+Cz
+Cz
+wT
+av
+yU
+NN
+NL
+ib
+NL
+NL
+OG
+TW
+uB
+uB
+uB
+NB
+XP
+uB
+uB
+uB
+Bb
+dv
+NL
+NL
+dV
+iB
+"}
+(30,1,1) = {"
+Aj
+Js
+sD
+vm
+sD
+ij
+TZ
+pl
+pl
+pl
+pl
+Aj
+hA
+NL
+UX
+tR
+wR
+ex
+Aj
+Ud
+cU
+cU
+cU
+mt
+sU
+sU
+CJ
+sU
+sU
+nE
+qG
+ex
+ex
+ex
+ex
+ex
+VD
+NL
+SV
+NL
+Lf
+yU
+ad
+Cz
+Cz
+Kq
+Rk
+yU
+NN
+NL
+ib
+NL
+NL
+AX
+cx
+ex
+ex
+fB
+lD
+Kn
+fB
+ex
+ex
+ex
+Hr
+NL
+NL
+dV
+iB
+"}
+(31,1,1) = {"
+Aj
+Js
+DD
+sD
+sD
+sD
+TZ
+pl
+pl
+pl
+pl
+Aj
+Fw
+NL
+Lf
+ex
+ex
+ex
+Aj
+HN
+Qt
+Qt
+Qt
+dJ
+sU
+sU
+FF
+sU
+sU
+Tf
+qG
+ex
+ex
+lX
+xt
+tR
+ei
+NL
+SV
+NL
+Lf
+yU
+JP
+Cz
+Cz
+wT
+hc
+yU
+NN
+NL
+ib
+NL
+NL
+AX
+cx
+hm
+hm
+hm
+pi
+iT
+hm
+hm
+hm
+hm
+jt
+kO
+Px
+dV
+VX
+"}
+(32,1,1) = {"
+Aj
+Js
+sD
+sD
+sD
+sD
+TZ
+pl
+pl
+pl
+pl
+yU
+px
+NL
+vI
+uZ
+XU
+ex
+Aj
+Aj
+ml
+ml
+BH
+Vf
+ml
+ml
+Aj
+ml
+ml
+Aj
+BG
+ex
+ex
+ex
+ex
+ex
+VD
+EP
+ls
+GP
+Lf
+Aj
+NS
+Cz
+Cz
+Cz
+vN
+vZ
+NN
+EP
+nN
+GP
+NL
+mJ
+PK
+ex
+ex
+ex
+lD
+nu
+ex
+ex
+ex
+iG
+SX
+NL
+NL
+dV
+iB
+"}
+(33,1,1) = {"
+Aj
+Js
+sD
+sD
+sD
+sD
+TZ
+pl
+pl
+pl
+pl
+yU
+px
+NL
+tG
+fa
+fc
+ex
+ex
+Qq
+PH
+iH
+dx
+dx
+iH
+iH
+iH
+iH
+it
+Qq
+qG
+ex
+ex
+ex
+ex
+ex
+VD
+EP
+jc
+GP
+nM
+DN
+Aj
+yU
+VE
+yU
+Aj
+DN
+Vp
+EP
+cB
+GP
+NL
+gi
+Ek
+rC
+hm
+hm
+eR
+yj
+hm
+hm
+Po
+Gc
+qf
+kO
+Px
+dV
+iB
+"}
+(34,1,1) = {"
+Aj
+Js
+sD
+vr
+sD
+sD
+TZ
+pl
+pl
+pl
+pl
+Rs
+LC
+Co
+Lf
+ex
+ex
+ex
+ex
+Qq
+qG
+ex
+ex
+ex
+ex
+ex
+ex
+ex
+pp
+Qq
+qG
+ex
+ex
+ex
+ex
+ex
+VD
+NL
+SV
+NL
+Qj
+Ok
+Ym
+ex
+ex
+ex
+Vw
+eZ
+ef
+NL
+ib
+NL
+NL
+gi
+NL
+gu
+yY
+yY
+XY
+gu
+yY
+yY
+XY
+NL
+gi
+NL
+NL
+dV
+iB
+"}
+(35,1,1) = {"
+Aj
+Js
+sD
+sD
+mw
+sD
+TZ
+pl
+pl
+pl
+pl
+yU
+NL
+El
+Lf
+ex
+ex
+ex
+Oa
+Qq
+qG
+pj
+tX
+Xf
+tX
+tX
+tX
+tX
+dy
+Qq
+jk
+vL
+pj
+kq
+tX
+tX
+tB
+El
+SV
+NL
+Qj
+Ok
+Ym
+ex
+ex
+ex
+Vw
+eZ
+ef
+NL
+ib
+NL
+NL
+gi
+dR
+dR
+dR
+Ll
+dR
+NL
+nr
+NL
+NL
+NL
+gi
+NL
+NL
+Aj
+iB
+"}
+(36,1,1) = {"
+Aj
+Js
+sD
+vm
+sD
+sD
+jV
+kH
+kH
+vY
+kH
+Aj
+Aj
+Aj
+ml
+ml
+ml
+ml
+Aj
+td
+DF
+lU
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+yp
+DF
+lU
+ZK
+Aj
+RQ
+Si
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+qy
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+ml
+ml
+Ie
+pK
+ml
+ml
+NY
+gh
+aZ
+NY
+ml
+ml
+hr
+DA
+ml
+ml
+Aj
+iB
+"}
+(37,1,1) = {"
+Aj
+Js
+sD
+sD
+sD
+sD
+vr
+sD
+sD
+sD
+vm
+Nk
+sD
+DD
+sD
+vr
+sD
+sD
+gz
+Aj
+DF
+lU
+Aj
+UE
+oU
+PX
+lh
+ch
+Xv
+pB
+Aj
+oo
+lU
+yU
+Eo
+Wl
+Wl
+WP
+sD
+sD
+VH
+rL
+VH
+cQ
+Wl
+iL
+Aj
+TX
+BC
+zL
+gR
+Va
+Ph
+Ph
+Ph
+iq
+tJ
+Aj
+gi
+NL
+Aj
+Wk
+LO
+hr
+hr
+Ou
+wX
+Aj
+iB
+"}
+(38,1,1) = {"
+Aj
+Js
+sD
+QZ
+sD
+sD
+sD
+sD
+DD
+sD
+sD
+bG
+sD
+sD
+sD
+DD
+sD
+tl
+sD
+ml
+DF
+lU
+Aj
+ZE
+HB
+zY
+Nf
+MO
+Xv
+Tg
+wd
+qG
+lU
+yU
+Nd
+Wl
+Wl
+rX
+xN
+sD
+Fj
+rL
+OF
+dS
+Wl
+qx
+Aj
+zX
+NL
+pN
+gR
+MW
+Ph
+Ph
+Ph
+tT
+fm
+Aj
+gi
+oD
+Aj
+Wo
+OK
+hr
+hr
+OK
+sS
+Aj
+iB
+"}
+(39,1,1) = {"
+Aj
+Js
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+gz
+sD
+Nk
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+ml
+DF
+lU
+Aj
+Aj
+Aj
+Nf
+Nf
+Dz
+Xv
+vP
+Aj
+DF
+lU
+yU
+Eo
+Wl
+Wl
+aB
+sD
+sD
+sD
+rL
+sD
+cQ
+dM
+qx
+Aj
+Kc
+xZ
+pN
+gR
+MW
+zb
+tT
+AD
+Ph
+Ph
+HI
+gi
+NL
+wQ
+hr
+hr
+CI
+CI
+hr
+hr
+Aj
+iB
+"}
+(40,1,1) = {"
+Aj
+Js
+sD
+sD
+et
+sD
+tl
+sD
+Pa
+sD
+sD
+Nk
+sD
+sD
+sD
+gz
+sD
+sD
+Pn
+ml
+DF
+CH
+iH
+YV
+Aj
+CS
+Xv
+Xv
+Xv
+Xv
+Aj
+DF
+lU
+Aj
+Dk
+Wl
+Wl
+WP
+sD
+sD
+tw
+rL
+xN
+Sf
+dM
+dX
+Aj
+KT
+NL
+pN
+gR
+MW
+zb
+tT
+AD
+Ph
+Ph
+RL
+gi
+NL
+hr
+hr
+hr
+OK
+OK
+hr
+hr
+Aj
+iB
+"}
+(41,1,1) = {"
+Aj
+Js
+sD
+DD
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+Nk
+sD
+sD
+sD
+QZ
+sD
+sD
+sD
+Aj
+DF
+pj
+tX
+EM
+Aj
+Fm
+so
+Xv
+Xv
+Yo
+Aj
+WA
+lU
+Aj
+Eo
+Wl
+Wl
+WP
+sD
+VH
+sD
+rL
+sD
+On
+dM
+iz
+Aj
+zN
+uA
+Td
+gR
+MW
+Ph
+Ph
+Ph
+tT
+OV
+Aj
+Iq
+NL
+Aj
+hr
+hr
+Kt
+Kt
+hr
+hr
+Aj
+iB
+"}
+(42,1,1) = {"
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+ml
+ml
+ml
+Aj
+Aj
+Aj
+Aj
+Aj
+ml
+ml
+ml
+ml
+Aj
+Aj
+oo
+lU
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+DF
+lU
+yU
+ej
+Wl
+Wl
+WP
+kL
+sD
+sD
+rL
+sD
+cQ
+dM
+Iu
+Aj
+Aj
+LQ
+NL
+jZ
+el
+oz
+oz
+oz
+nF
+ap
+Aj
+gi
+NL
+Aj
+hl
+LJ
+hr
+hr
+hr
+hr
+Aj
+iB
+"}
+(43,1,1) = {"
+iB
+iB
+iB
+iB
+xA
+Co
+NL
+NL
+NL
+zQ
+NL
+NL
+NL
+zQ
+NL
+NL
+NL
+NL
+NL
+we
+qG
+lU
+Aj
+UE
+oU
+PX
+lh
+ch
+Xv
+pB
+Aj
+DF
+lU
+yU
+Eo
+Wl
+Wl
+KG
+sD
+VH
+sD
+rL
+tw
+cQ
+dM
+qx
+sD
+Aj
+Aj
+Aj
+Aj
+Aj
+Cs
+ho
+CL
+Aj
+Aj
+Aj
+Zr
+pO
+Aj
+hi
+an
+CI
+CI
+CI
+NT
+Aj
+iB
+"}
+(44,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+ZZ
+tL
+IQ
+IQ
+Rg
+NL
+NL
+Cs
+iU
+IQ
+IQ
+tL
+Rg
+NL
+fO
+qG
+lU
+Aj
+ZE
+HB
+zY
+Nf
+MO
+Xv
+Tg
+Kb
+qG
+lU
+yU
+Eo
+Wl
+Wl
+rX
+sD
+sD
+ba
+rL
+hx
+cQ
+dM
+iz
+tw
+rL
+sD
+xN
+sD
+Aj
+ml
+ml
+ml
+Aj
+sD
+cQ
+Wl
+Wl
+go
+Aj
+un
+un
+un
+un
+If
+Aj
+iB
+"}
+(45,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+Hi
+SC
+Zb
+PA
+jK
+rk
+rk
+rk
+gc
+PA
+gr
+SC
+zf
+NL
+we
+qG
+lU
+Aj
+Aj
+Aj
+Nf
+Nf
+Dz
+Xv
+qT
+Aj
+DF
+lU
+Aj
+Eo
+Wl
+Wl
+WP
+sD
+sD
+sD
+rL
+xN
+cQ
+dM
+qx
+VH
+rL
+sD
+kz
+sD
+sD
+sD
+sD
+sD
+sD
+xN
+cQ
+Wl
+Wl
+qx
+Aj
+yH
+hr
+hr
+hr
+hr
+Aj
+iB
+"}
+(46,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+NL
+NL
+LL
+ex
+ex
+ex
+ex
+ex
+ex
+ex
+tS
+NL
+NL
+El
+fO
+qG
+CH
+iH
+Vl
+Aj
+CS
+Xv
+Xv
+Xv
+Xv
+Aj
+DF
+lU
+Aj
+Eo
+Wl
+Wl
+jo
+MA
+gd
+xN
+rL
+sD
+IF
+dM
+dX
+sD
+rL
+sD
+sD
+RU
+RU
+sD
+sD
+sD
+sD
+nY
+cQ
+Wl
+Wl
+qx
+Aj
+It
+Yq
+bO
+hr
+hr
+Aj
+iB
+"}
+(47,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+yU
+Ba
+Gz
+IH
+Aj
+Aj
+Ug
+Aj
+Aj
+IH
+Fe
+Sn
+yU
+Aj
+Aj
+WA
+pj
+tX
+qF
+Aj
+Fm
+so
+Xv
+Xv
+Yo
+Aj
+DF
+lU
+yU
+Eo
+Wl
+Wl
+Wl
+Wl
+Wl
+WP
+rL
+sD
+ZM
+dM
+qx
+sD
+rL
+sD
+vz
+RU
+RU
+ba
+sD
+sD
+sD
+tw
+jP
+Wl
+Wl
+qx
+ml
+hr
+hr
+oc
+Fy
+cN
+Aj
+iB
+"}
+(48,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+NL
+yP
+LL
+ex
+Aj
+Wb
+Qs
+HE
+Aj
+ex
+tS
+px
+NL
+Aj
+DY
+jW
+lU
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+DF
+lU
+yU
+Eo
+Wl
+Wl
+Wl
+Wl
+sq
+sD
+rL
+sD
+jP
+dM
+qx
+sD
+rL
+sD
+sD
+RU
+RU
+sD
+sD
+sD
+VH
+sD
+cQ
+Wl
+Wl
+dX
+ml
+hl
+wC
+Aj
+Aj
+Aj
+Aj
+iB
+"}
+(49,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+dQ
+xb
+Yr
+ex
+yU
+cv
+Qs
+eV
+pe
+ex
+if
+di
+NL
+Aj
+UJ
+ex
+lU
+Aj
+UE
+oU
+PX
+lh
+ch
+Xv
+pB
+Aj
+DF
+lU
+yU
+tw
+mj
+Jo
+mj
+lx
+Wl
+WP
+rL
+sD
+pz
+dM
+dX
+VH
+rL
+sD
+VH
+tw
+sD
+xw
+xw
+xw
+VS
+xw
+cQ
+Wl
+Wl
+qx
+Aj
+OD
+Aj
+Aj
+PQ
+Dc
+Aj
+iB
+"}
+(50,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+NL
+Un
+eh
+ex
+UN
+bo
+Qs
+Pr
+MS
+ex
+fV
+QU
+NL
+Aj
+UJ
+ex
+lU
+Aj
+ZE
+HB
+zY
+Nf
+MO
+Xv
+Tg
+WG
+qG
+lU
+Aj
+Js
+Js
+Js
+Js
+Wl
+In
+sD
+rL
+sD
+cQ
+Wl
+qx
+ba
+rL
+ba
+sD
+sD
+sD
+Au
+kP
+xw
+xw
+xw
+dS
+Wl
+Wl
+qx
+Aj
+zZ
+zZ
+zZ
+zZ
+nz
+Aj
+iB
+"}
+(51,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+NL
+NL
+Cv
+ex
+yU
+EI
+iK
+KY
+pe
+ex
+Jl
+NL
+NL
+Aj
+yE
+ex
+lU
+Aj
+Aj
+Aj
+Nf
+Nf
+Dz
+Xv
+Ub
+Aj
+DF
+lU
+Aj
+Js
+nl
+dM
+Js
+Jp
+gd
+tw
+rL
+VH
+dS
+Wl
+qx
+sD
+rL
+sD
+sD
+sD
+sD
+Ez
+Ez
+xw
+bM
+cS
+cR
+Wl
+Wl
+xE
+Aj
+dN
+zZ
+zZ
+zZ
+tn
+Aj
+iB
+"}
+(52,1,1) = {"
+iB
+iB
+iB
+iB
+Gh
+Co
+NL
+LL
+FY
+Aj
+yU
+yU
+yU
+Aj
+FY
+tS
+NL
+NL
+Aj
+DF
+ex
+CH
+iH
+YV
+Aj
+CS
+Xv
+Xv
+Xv
+Xv
+Aj
+DF
+lU
+Aj
+Js
+dM
+dM
+ey
+dM
+dM
+Js
+Aj
+Aj
+Aj
+Sc
+Aj
+Aj
+Aj
+sD
+sD
+sD
+cQ
+dM
+dM
+Qo
+FB
+dM
+Wl
+Wl
+Wl
+qx
+Aj
+jU
+bJ
+rS
+zZ
+Cy
+Aj
+iB
+"}
+(53,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+NL
+NL
+EU
+YU
+QM
+QM
+QM
+QM
+QM
+VW
+aD
+NL
+oD
+Aj
+lu
+tX
+tX
+tX
+EM
+Aj
+Fm
+so
+Xv
+Xv
+Yo
+Aj
+WA
+lU
+Aj
+Js
+dM
+dM
+dM
+dM
+dM
+Js
+Aj
+uv
+pl
+pl
+pl
+pl
+Aj
+sD
+tw
+VH
+sD
+cw
+to
+dM
+dM
+dM
+Wl
+Wl
+Wl
+qx
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+iB
+"}
+(54,1,1) = {"
+iB
+iB
+iB
+iB
+Aj
+NL
+NL
+NL
+NL
+wO
+NL
+vv
+NL
+wO
+NL
+NL
+NL
+NL
+Aj
+Cs
+Dp
+Nx
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+oo
+lU
+Aj
+Js
+dM
+dM
+dM
+dM
+nl
+Js
+Aj
+iI
+Xa
+pl
+pl
+pl
+Aj
+sD
+sD
+sD
+sD
+sD
+sD
+Md
+Md
+Md
+OS
+Wl
+Sr
+VH
+Js
+Js
+Js
+Js
+Js
+Js
+Aj
+iB
+"}
+(55,1,1) = {"
+iB
+Aj
+Aj
+Aj
+Aj
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+Aj
+Aj
+Aj
+Aj
+Aj
+UE
+oU
+PX
+lh
+ch
+Xv
+pB
+Aj
+DF
+lU
+Aj
+Js
+ey
+dM
+dM
+dM
+dM
+Js
+Aj
+iI
+Xa
+pl
+pl
+pl
+Aj
+sD
+sD
+sD
+ZP
+sD
+sD
+sD
+sD
+tw
+sD
+Lc
+Wl
+Qk
+dM
+ey
+dM
+dM
+dM
+Js
+Aj
+iB
+"}
+(56,1,1) = {"
+iB
+Xp
+Ng
+Ng
+Cc
+Cc
+Cw
+vF
+Ee
+Cw
+Cc
+Cc
+Cc
+Cw
+vF
+Ee
+Cw
+Cc
+fk
+Ng
+Ng
+Dv
+Aj
+ZE
+HB
+zY
+Nf
+MO
+Xv
+Tg
+kC
+qG
+lU
+Aj
+Js
+Js
+dM
+ey
+dM
+dM
+Js
+Aj
+pl
+pl
+pl
+pl
+pl
+Aj
+sD
+sD
+sD
+sD
+sD
+ba
+sD
+sD
+VH
+cQ
+Wl
+In
+Mh
+dM
+dM
+dM
+dM
+nl
+Js
+Aj
+iB
+"}
+(57,1,1) = {"
+iB
+AO
+eL
+Cc
+fk
+MP
+zr
+VU
+VU
+MP
+zr
+fk
+MP
+zr
+VU
+VU
+MP
+zr
+fk
+Cc
+Ut
+xd
+Aj
+Aj
+Aj
+Nf
+Nf
+Dz
+Xv
+MG
+Aj
+DF
+lU
+Aj
+iB
+Js
+dM
+dM
+dM
+JH
+Js
+Aj
+pl
+pl
+SQ
+pl
+pl
+Aj
+sD
+sD
+sD
+sD
+sD
+sD
+sD
+tw
+sD
+kz
+Md
+VH
+Lz
+dM
+dM
+dM
+dM
+dM
+Js
+Aj
+iB
+"}
+(58,1,1) = {"
+iB
+Lr
+pl
+fk
+NE
+gK
+gK
+gK
+gK
+gK
+gK
+wJ
+gK
+gK
+gK
+gK
+gK
+gK
+He
+fk
+pl
+cP
+Aj
+op
+Aj
+CS
+Xv
+Xv
+Xv
+Xv
+Aj
+DF
+lU
+Aj
+iB
+Js
+nl
+dM
+dM
+dM
+Js
+Aj
+Aj
+pl
+pl
+pl
+pl
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Js
+Ai
+dM
+dM
+dM
+Js
+Aj
+iB
+"}
+(59,1,1) = {"
+iB
+Xp
+Ng
+Cc
+fk
+Dq
+bP
+bU
+bU
+bP
+dH
+fk
+Dq
+bP
+bU
+bU
+bP
+dH
+fk
+Cc
+Ng
+xd
+Aj
+yD
+Aj
+Fm
+so
+Xv
+Xv
+Yo
+Aj
+DF
+lU
+Aj
+iB
+Js
+dM
+dM
+dM
+dM
+Js
+Js
+Aj
+pl
+pl
+pl
+pl
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+dM
+dM
+dM
+dM
+Js
+Aj
+iB
+"}
+(60,1,1) = {"
+iB
+AO
+eL
+eL
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+fk
+eL
+eL
+nh
+Aj
+NR
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+WA
+lU
+Aj
+iB
+Js
+dM
+dM
+dM
+dM
+dM
+Js
+Aj
+pl
+pl
+pl
+Aj
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+dM
+dM
+nl
+dM
+Js
+Aj
+iB
+"}
+(61,1,1) = {"
+iB
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+PH
+OU
+zw
+Hq
+WZ
+Vk
+qo
+Eg
+jW
+lU
+Aj
+iB
+Js
+JH
+dM
+nl
+ey
+dM
+Js
+Aj
+Aj
+pl
+Aj
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+Js
+dM
+dM
+dM
+Js
+Aj
+iB
+"}
+(62,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+ex
+ex
+vt
+PH
+iH
+iH
+iH
+iH
+iH
+Pw
+iH
+iH
+iH
+jW
+ex
+ex
+ex
+ex
+ex
+ex
+ex
+ex
+lU
+Aj
+iB
+Js
+dM
+dM
+dM
+dM
+dM
+Js
+Js
+Aj
+Aj
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+Js
+Js
+dM
+dM
+Js
+Aj
+iB
+"}
+(63,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+fP
+ex
+Aj
+lu
+tX
+tX
+tX
+tX
+tX
+tX
+Hv
+tX
+GA
+tX
+Hv
+tX
+tX
+tX
+Hv
+tX
+tX
+tX
+dy
+Aj
+iB
+Js
+Js
+dM
+dM
+dM
+JH
+dM
+Js
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+Js
+dM
+dM
+Js
+Aj
+iB
+"}
+(64,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+ex
+ex
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Gj
+Aj
+Aj
+Aj
+xW
+Aj
+Aj
+Aj
+yr
+Aj
+Aj
+Aj
+tg
+Aj
+iB
+iB
+Js
+Js
+Js
+dM
+Js
+Js
+Js
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+vE
+vE
+Js
+Aj
+iB
+"}
+(65,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+Aj
+Aj
+iB
+iB
+iB
+iB
+Aj
+LH
+Bj
+Cj
+Aj
+LH
+mG
+Cj
+Aj
+LH
+dk
+Cj
+Aj
+LH
+HD
+Cj
+Aj
+iB
+iB
+iB
+iB
+Js
+Js
+Js
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+dM
+dM
+Js
+Aj
+iB
+"}
+(66,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+lm
+Xv
+Xv
+Aj
+lm
+Xv
+Xv
+Aj
+lm
+Xv
+Xv
+Aj
+lm
+Xv
+Xv
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+dM
+dM
+Js
+Aj
+iB
+"}
+(67,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+CS
+rv
+Nj
+Aj
+CS
+rv
+Nj
+Aj
+CS
+rv
+Nj
+Aj
+CS
+rv
+Nj
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+Js
+vE
+vE
+Js
+Aj
+iB
+"}
+(68,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Nf
+Nf
+lh
+Aj
+Nf
+Nf
+lh
+Aj
+Nf
+Nf
+lh
+Aj
+Nf
+Nf
+lh
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+Js
+Js
+dM
+dM
+Js
+Aj
+iB
+"}
+(69,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+UE
+oU
+PX
+Aj
+UE
+oU
+PX
+Aj
+UE
+oU
+PX
+Aj
+UE
+oU
+PX
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+Js
+dM
+Ai
+dM
+Js
+Aj
+iB
+"}
+(70,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Nn
+oP
+Vu
+Aj
+Nn
+oP
+Vu
+Aj
+Nn
+oP
+Vu
+Aj
+Nn
+oP
+Vu
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+dM
+ey
+dM
+dM
+Js
+Aj
+iB
+"}
+(71,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+Yt
+dM
+dM
+dM
+Js
+Aj
+iB
+"}
+(72,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+dM
+dM
+dM
+dd
+Js
+Aj
+iB
+"}
+(73,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+dM
+tr
+dM
+Js
+Js
+Aj
+iB
+"}
+(74,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Js
+Js
+Js
+Js
+Js
+Aj
+Aj
+iB
+"}
+(75,1,1) = {"
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+iB
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+Aj
+iB
+iB
+"}
