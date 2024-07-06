@@ -13,15 +13,16 @@ HeavenStation-Original_edited.dmm is the map AFTER I had departed from the codeb
 <details>
 <summary> Image from the PR </summary>
   
-[1](https://cdn.discordapp.com/attachments/914685829027340330/1123739720439050271/110881397-4cd6d480-82ae-11eb-8935-cbba2e3efa01.png)
-[2](https://cdn.discordapp.com/attachments/914685829027340330/1123739720732659732/110881416-552f0f80-82ae-11eb-93d0-1dcf4879b41d.png)
-[3](https://cdn.discordapp.com/attachments/914685829027340330/1123739721026252941/110881437-5ceeb400-82ae-11eb-902d-19d625dc145b.png)
-[4](https://cdn.discordapp.com/attachments/914685829027340330/1123739721277898876/110881519-7d1e7300-82ae-11eb-84d8-c8ca5b216920.png)
-[5](https://cdn.discordapp.com/attachments/914685829027340330/1123739721558937640/110881547-84de1780-82ae-11eb-85fd-39d25e9c2f7f.png)
-[6](https://cdn.discordapp.com/attachments/914685829027340330/1123739779272560690/112189444-66dfb380-8bda-11eb-8c12-b7dc62f82383.png)
-[7](https://cdn.discordapp.com/attachments/914685829027340330/1123739779696177243/112189562-82e35500-8bda-11eb-9748-8468faa00551.png)
-[8](https://cdn.discordapp.com/attachments/914685829027340330/1123739780069462066/112189720-aa3a2200-8bda-11eb-8767-05259b9a5162.png)
-[9](https://cdn.discordapp.com/attachments/914685829027340330/1123739780434383059/112192535-6ac10500-8bdd-11eb-8a6a-b8a02157996e.png)
+![110881397-4cd6d480-82ae-11eb-8935-cbba2e3efa01](https://github.com/Jolly-66/MapDepot/assets/70232195/ccf2af1a-c313-43fc-860a-181e1168fe04)
+![110881416-552f0f80-82ae-11eb-93d0-1dcf4879b41d](https://github.com/Jolly-66/MapDepot/assets/70232195/d333c8ab-b032-4197-b4d6-80226c21e965)
+![110881437-5ceeb400-82ae-11eb-902d-19d625dc145b](https://github.com/Jolly-66/MapDepot/assets/70232195/2a65ce94-5936-46c0-9950-18df0a8d135f)
+![110881519-7d1e7300-82ae-11eb-84d8-c8ca5b216920](https://github.com/Jolly-66/MapDepot/assets/70232195/358cfbf1-d2ce-4286-936e-8d78fe9d8bb7)
+![110881547-84de1780-82ae-11eb-85fd-39d25e9c2f7f](https://github.com/Jolly-66/MapDepot/assets/70232195/9e9be9a8-87ce-4669-b0d0-40172ed94adb)
+![112189444-66dfb380-8bda-11eb-8c12-b7dc62f82383](https://github.com/Jolly-66/MapDepot/assets/70232195/f9c75f3c-9036-4f52-8602-0ab74203b862)
+![112189562-82e35500-8bda-11eb-9748-8468faa00551](https://github.com/Jolly-66/MapDepot/assets/70232195/74d6481f-e439-422b-9c0c-a1d975fcf7ad)
+![112189720-aa3a2200-8bda-11eb-8767-05259b9a5162](https://github.com/Jolly-66/MapDepot/assets/70232195/a6b3d755-6e50-48e1-922e-b70d7efda056)
+![112192535-6ac10500-8bdd-11eb-8a6a-b8a02157996e](https://github.com/Jolly-66/MapDepot/assets/70232195/ffa4fe77-4ac9-4970-8528-a83668a01376)
+
 
 </details>
 
